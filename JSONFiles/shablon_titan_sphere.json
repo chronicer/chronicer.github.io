@@ -1,0 +1,69 @@
+{
+        "response": {
+          "reward": [
+            {
+              "fragmentTitanArtifact": {
+                "3001": 25
+              }
+            },
+            {
+              "fragmentTitanArtifact": {
+                "2001": 2
+              }
+            },
+            {
+              "fragmentTitanArtifact": {
+                "1002": 3
+              }
+            },
+            {
+              "fragmentTitanArtifact": {
+                "2002": 3
+              }
+            },
+            {
+              "fragmentTitanArtifact": {
+                "2001": 2
+              }
+            },
+            {
+              "fragmentTitanArtifact": {
+                "1009": 2
+              }
+            },
+            {
+              "fragmentTitanArtifact": {
+                "2002": 5
+              }
+            },
+            {
+              "fragmentTitanArtifact": {
+                "3001": 5
+              }
+            },
+            {
+              "fragmentTitanArtifact": {
+                "1005": 50
+              }
+            },
+            {
+              "fragmentTitanArtifact": {
+                "1004": 2
+              }
+            }
+          ],
+          "starmoneySpent": 500
+        },
+        "quests": [
+          {
+            "id": 10029,
+            "state": 2,
+            "progress": 1,
+            "reward": {
+              "coin": {
+                "18": "300"
+              }
+            }
+          }
+        ]
+      }

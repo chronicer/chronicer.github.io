@@ -1,0 +1,662 @@
+       "levels": {
+          "1": {
+            "cost": {
+              "coin": {
+                "8": 5000
+              }
+            },
+            "level": 1,
+            "statBonus": {
+              "magicPower": 600
+            }
+          },
+          "2": {
+            "cost": {
+              "coin": {
+                "8": 65
+              }
+            },
+            "level": 2,
+            "statBonus": {
+              "magicPower": 615
+            }
+          },
+          "3": {
+            "cost": {
+              "coin": {
+                "8": 65
+              }
+            },
+            "level": 3,
+            "statBonus": {
+              "magicPower": 630
+            }
+          },
+          "4": {
+            "cost": {
+              "coin": {
+                "8": 65
+              }
+            },
+            "level": 4,
+            "statBonus": {
+              "magicPower": 645
+            }
+          },
+          "5": {
+            "cost": {
+              "coin": {
+                "8": 65
+              }
+            },
+            "level": 5,
+            "statBonus": {
+              "magicPower": 660
+            }
+          },
+          "6": {
+            "cost": {
+              "coin": {
+                "8": 105
+              }
+            },
+            "level": 6,
+            "statBonus": {
+              "magicPower": 690
+            }
+          },
+          "7": {
+            "cost": {
+              "coin": {
+                "8": 105
+              }
+            },
+            "level": 7,
+            "statBonus": {
+              "magicPower": 720
+            }
+          },
+          "8": {
+            "cost": {
+              "coin": {
+                "8": 105
+              }
+            },
+            "level": 8,
+            "statBonus": {
+              "magicPower": 750
+            }
+          },
+          "9": {
+            "cost": {
+              "coin": {
+                "8": 105
+              }
+            },
+            "level": 9,
+            "statBonus": {
+              "magicPower": 780
+            }
+          },
+          "10": {
+            "cost": {
+              "coin": {
+                "8": 105
+              }
+            },
+            "level": 10,
+            "statBonus": {
+              "magicPower": 810
+            }
+          },
+          "11": {
+            "cost": {
+              "coin": {
+                "8": 255
+              }
+            },
+            "level": 11,
+            "statBonus": {
+              "magicPower": 865
+            }
+          },
+          "12": {
+            "cost": {
+              "coin": {
+                "8": 255
+              }
+            },
+            "level": 12,
+            "statBonus": {
+              "magicPower": 920
+            }
+          },
+          "13": {
+            "cost": {
+              "coin": {
+                "8": 255
+              }
+            },
+            "level": 13,
+            "statBonus": {
+              "magicPower": 975
+            }
+          },
+          "14": {
+            "cost": {
+              "coin": {
+                "8": 255
+              }
+            },
+            "level": 14,
+            "statBonus": {
+              "magicPower": 1030
+            }
+          },
+          "15": {
+            "cost": {
+              "coin": {
+                "8": 255
+              }
+            },
+            "level": 15,
+            "statBonus": {
+              "magicPower": 1085
+            }
+          },
+          "16": {
+            "cost": {
+              "coin": {
+                "8": 300
+              }
+            },
+            "level": 16,
+            "statBonus": {
+              "magicPower": 1150
+            }
+          },
+          "17": {
+            "cost": {
+              "coin": {
+                "8": 300
+              }
+            },
+            "level": 17,
+            "statBonus": {
+              "magicPower": 1215
+            }
+          },
+          "18": {
+            "cost": {
+              "coin": {
+                "8": 300
+              }
+            },
+            "level": 18,
+            "statBonus": {
+              "magicPower": 1280
+            }
+          },
+          "19": {
+            "cost": {
+              "coin": {
+                "8": 300
+              }
+            },
+            "level": 19,
+            "statBonus": {
+              "magicPower": 1345
+            }
+          },
+          "20": {
+            "cost": {
+              "coin": {
+                "8": 300
+              }
+            },
+            "level": 20,
+            "statBonus": {
+              "magicPower": 1410
+            }
+          },
+          "21": {
+            "cost": {
+              "coin": {
+                "8": 700
+              }
+            },
+            "level": 21,
+            "statBonus": {
+              "magicPower": 1560
+            }
+          },
+          "22": {
+            "cost": {
+              "coin": {
+                "8": 700
+              }
+            },
+            "level": 22,
+            "statBonus": {
+              "magicPower": 1710
+            }
+          },
+          "23": {
+            "cost": {
+              "coin": {
+                "8": 700
+              }
+            },
+            "level": 23,
+            "statBonus": {
+              "magicPower": 1860
+            }
+          },
+          "24": {
+            "cost": {
+              "coin": {
+                "8": 700
+              }
+            },
+            "level": 24,
+            "statBonus": {
+              "magicPower": 2010
+            }
+          },
+          "25": {
+            "cost": {
+              "coin": {
+                "8": 700
+              }
+            },
+            "level": 25,
+            "statBonus": {
+              "magicPower": 2160
+            }
+          },
+          "26": {
+            "cost": {
+              "coin": {
+                "8": 790
+              }
+            },
+            "level": 26,
+            "statBonus": {
+              "magicPower": 2325
+            }
+          },
+          "27": {
+            "cost": {
+              "coin": {
+                "8": 790
+              }
+            },
+            "level": 27,
+            "statBonus": {
+              "magicPower": 2490
+            }
+          },
+          "28": {
+            "cost": {
+              "coin": {
+                "8": 790
+              }
+            },
+            "level": 28,
+            "statBonus": {
+              "magicPower": 2655
+            }
+          },
+          "29": {
+            "cost": {
+              "coin": {
+                "8": 790
+              }
+            },
+            "level": 29,
+            "statBonus": {
+              "magicPower": 2820
+            }
+          },
+          "30": {
+            "cost": {
+              "coin": {
+                "8": 790
+              }
+            },
+            "level": 30,
+            "statBonus": {
+              "magicPower": 2985
+            }
+          },
+          "31": {
+            "cost": {
+              "coin": {
+                "8": 1050
+              }
+            },
+            "level": 31,
+            "statBonus": {
+              "magicPower": 3200
+            }
+          },
+          "32": {
+            "cost": {
+              "coin": {
+                "8": 1050
+              }
+            },
+            "level": 32,
+            "statBonus": {
+              "magicPower": 3415
+            }
+          },
+          "33": {
+            "cost": {
+              "coin": {
+                "8": 1050
+              }
+            },
+            "level": 33,
+            "statBonus": {
+              "magicPower": 3630
+            }
+          },
+          "34": {
+            "cost": {
+              "coin": {
+                "8": 1050
+              }
+            },
+            "level": 34,
+            "statBonus": {
+              "magicPower": 3845
+            }
+          },
+          "35": {
+            "cost": {
+              "coin": {
+                "8": 1050
+              }
+            },
+            "level": 35,
+            "statBonus": {
+              "magicPower": 4060
+            }
+          },
+          "36": {
+            "cost": {
+              "coin": {
+                "8": 1160
+              }
+            },
+            "level": 36,
+            "statBonus": {
+              "magicPower": 4290
+            }
+          },
+          "37": {
+            "cost": {
+              "coin": {
+                "8": 1160
+              }
+            },
+            "level": 37,
+            "statBonus": {
+              "magicPower": 4520
+            }
+          },
+          "38": {
+            "cost": {
+              "coin": {
+                "8": 1160
+              }
+            },
+            "level": 38,
+            "statBonus": {
+              "magicPower": 4750
+            }
+          },
+          "39": {
+            "cost": {
+              "coin": {
+                "8": 1160
+              }
+            },
+            "level": 39,
+            "statBonus": {
+              "magicPower": 4980
+            }
+          },
+          "40": {
+            "cost": {
+              "coin": {
+                "8": 1160
+              }
+            },
+            "level": 40,
+            "statBonus": {
+              "magicPower": 5210
+            }
+          },
+          "41": {
+            "cost": {
+              "coin": {
+                "8": 1270
+              }
+            },
+            "level": 41,
+            "statBonus": {
+              "magicPower": 5460
+            }
+          },
+          "42": {
+            "cost": {
+              "coin": {
+                "8": 1270
+              }
+            },
+            "level": 42,
+            "statBonus": {
+              "magicPower": 5710
+            }
+          },
+          "43": {
+            "cost": {
+              "coin": {
+                "8": 1270
+              }
+            },
+            "level": 43,
+            "statBonus": {
+              "magicPower": 5960
+            }
+          },
+          "44": {
+            "cost": {
+              "coin": {
+                "8": 1270
+              }
+            },
+            "level": 44,
+            "statBonus": {
+              "magicPower": 6210
+            }
+          },
+          "45": {
+            "cost": {
+              "coin": {
+                "8": 1270
+              }
+            },
+            "level": 45,
+            "statBonus": {
+              "magicPower": 6460
+            }
+          },
+          "46": {
+            "cost": {
+              "coin": {
+                "8": 1370
+              }
+            },
+            "level": 46,
+            "statBonus": {
+              "magicPower": 6725
+            }
+          },
+          "47": {
+            "cost": {
+              "coin": {
+                "8": 1370
+              }
+            },
+            "level": 47,
+            "statBonus": {
+              "magicPower": 6990
+            }
+          },
+          "48": {
+            "cost": {
+              "coin": {
+                "8": 1370
+              }
+            },
+            "level": 48,
+            "statBonus": {
+              "magicPower": 7255
+            }
+          },
+          "49": {
+            "cost": {
+              "coin": {
+                "8": 1370
+              }
+            },
+            "level": 49,
+            "statBonus": {
+              "magicPower": 7520
+            }
+          },
+          "50": {
+            "cost": {
+              "coin": {
+                "8": 1370
+              }
+            },
+            "level": 50,
+            "statBonus": {
+              "magicPower": 7785
+            }
+          },
+          "51": {
+            "cost": {
+              "coin": {
+                "8": 1460
+              }
+            },
+            "level": 51,
+            "statBonus": {
+              "magicPower": 8063
+            }
+          },
+          "52": {
+            "cost": {
+              "coin": {
+                "8": 1460
+              }
+            },
+            "level": 52,
+            "statBonus": {
+              "magicPower": 8341
+            }
+          },
+          "53": {
+            "cost": {
+              "coin": {
+                "8": 1460
+              }
+            },
+            "level": 53,
+            "statBonus": {
+              "magicPower": 8619
+            }
+          },
+          "54": {
+            "cost": {
+              "coin": {
+                "8": 1460
+              }
+            },
+            "level": 54,
+            "statBonus": {
+              "magicPower": 8897
+            }
+          },
+          "55": {
+            "cost": {
+              "coin": {
+                "8": 1460
+              }
+            },
+            "level": 55,
+            "statBonus": {
+              "magicPower": 9175
+            }
+          },
+          "56": {
+            "cost": {
+              "coin": {
+                "8": 1570
+              }
+            },
+            "level": 56,
+            "statBonus": {
+              "magicPower": 9470
+            }
+          },
+          "57": {
+            "cost": {
+              "coin": {
+                "8": 1570
+              }
+            },
+            "level": 57,
+            "statBonus": {
+              "magicPower": 9765
+            }
+          },
+          "58": {
+            "cost": {
+              "coin": {
+                "8": 1570
+              }
+            },
+            "level": 58,
+            "statBonus": {
+              "magicPower": 10060
+            }
+          },
+          "59": {
+            "cost": {
+              "coin": {
+                "8": 1570
+              }
+            },
+            "level": 59,
+            "statBonus": {
+              "magicPower": 10355
+            }
+          },
+          "60": {
+            "cost": {
+              "coin": {
+                "8": 1570
+              }
+            },
+            "level": 60,
+            "statBonus": {
+              "magicPower": 10650
+            }
+          }
+        }

@@ -1,0 +1,662 @@
+        "levels": {
+          "1": {
+            "cost": {
+              "coin": {
+                "9": 5000
+              }
+            },
+            "level": 1,
+            "statBonus": {
+              "armorPenetration": 18
+            }
+          },
+          "2": {
+            "cost": {
+              "coin": {
+                "9": 78
+              }
+            },
+            "level": 2,
+            "statBonus": {
+              "armorPenetration": 36
+            }
+          },
+          "3": {
+            "cost": {
+              "coin": {
+                "9": 78
+              }
+            },
+            "level": 3,
+            "statBonus": {
+              "armorPenetration": 54
+            }
+          },
+          "4": {
+            "cost": {
+              "coin": {
+                "9": 78
+              }
+            },
+            "level": 4,
+            "statBonus": {
+              "armorPenetration": 72
+            }
+          },
+          "5": {
+            "cost": {
+              "coin": {
+                "9": 78
+              }
+            },
+            "level": 5,
+            "statBonus": {
+              "armorPenetration": 90
+            }
+          },
+          "6": {
+            "cost": {
+              "coin": {
+                "9": 91
+              }
+            },
+            "level": 6,
+            "statBonus": {
+              "armorPenetration": 116
+            }
+          },
+          "7": {
+            "cost": {
+              "coin": {
+                "9": 91
+              }
+            },
+            "level": 7,
+            "statBonus": {
+              "armorPenetration": 142
+            }
+          },
+          "8": {
+            "cost": {
+              "coin": {
+                "9": 91
+              }
+            },
+            "level": 8,
+            "statBonus": {
+              "armorPenetration": 168
+            }
+          },
+          "9": {
+            "cost": {
+              "coin": {
+                "9": 91
+              }
+            },
+            "level": 9,
+            "statBonus": {
+              "armorPenetration": 194
+            }
+          },
+          "10": {
+            "cost": {
+              "coin": {
+                "9": 91
+              }
+            },
+            "level": 10,
+            "statBonus": {
+              "armorPenetration": 220
+            }
+          },
+          "11": {
+            "cost": {
+              "coin": {
+                "9": 282
+              }
+            },
+            "level": 11,
+            "statBonus": {
+              "armorPenetration": 281
+            }
+          },
+          "12": {
+            "cost": {
+              "coin": {
+                "9": 282
+              }
+            },
+            "level": 12,
+            "statBonus": {
+              "armorPenetration": 342
+            }
+          },
+          "13": {
+            "cost": {
+              "coin": {
+                "9": 282
+              }
+            },
+            "level": 13,
+            "statBonus": {
+              "armorPenetration": 403
+            }
+          },
+          "14": {
+            "cost": {
+              "coin": {
+                "9": 282
+              }
+            },
+            "level": 14,
+            "statBonus": {
+              "armorPenetration": 464
+            }
+          },
+          "15": {
+            "cost": {
+              "coin": {
+                "9": 282
+              }
+            },
+            "level": 15,
+            "statBonus": {
+              "armorPenetration": 525
+            }
+          },
+          "16": {
+            "cost": {
+              "coin": {
+                "9": 323
+              }
+            },
+            "level": 16,
+            "statBonus": {
+              "armorPenetration": 595
+            }
+          },
+          "17": {
+            "cost": {
+              "coin": {
+                "9": 323
+              }
+            },
+            "level": 17,
+            "statBonus": {
+              "armorPenetration": 665
+            }
+          },
+          "18": {
+            "cost": {
+              "coin": {
+                "9": 323
+              }
+            },
+            "level": 18,
+            "statBonus": {
+              "armorPenetration": 735
+            }
+          },
+          "19": {
+            "cost": {
+              "coin": {
+                "9": 323
+              }
+            },
+            "level": 19,
+            "statBonus": {
+              "armorPenetration": 805
+            }
+          },
+          "20": {
+            "cost": {
+              "coin": {
+                "9": 323
+              }
+            },
+            "level": 20,
+            "statBonus": {
+              "armorPenetration": 875
+            }
+          },
+          "21": {
+            "cost": {
+              "coin": {
+                "9": 732
+              }
+            },
+            "level": 21,
+            "statBonus": {
+              "armorPenetration": 1032
+            }
+          },
+          "22": {
+            "cost": {
+              "coin": {
+                "9": 732
+              }
+            },
+            "level": 22,
+            "statBonus": {
+              "armorPenetration": 1189
+            }
+          },
+          "23": {
+            "cost": {
+              "coin": {
+                "9": 732
+              }
+            },
+            "level": 23,
+            "statBonus": {
+              "armorPenetration": 1346
+            }
+          },
+          "24": {
+            "cost": {
+              "coin": {
+                "9": 732
+              }
+            },
+            "level": 24,
+            "statBonus": {
+              "armorPenetration": 1503
+            }
+          },
+          "25": {
+            "cost": {
+              "coin": {
+                "9": 732
+              }
+            },
+            "level": 25,
+            "statBonus": {
+              "armorPenetration": 1660
+            }
+          },
+          "26": {
+            "cost": {
+              "coin": {
+                "9": 837
+              }
+            },
+            "level": 26,
+            "statBonus": {
+              "armorPenetration": 1835
+            }
+          },
+          "27": {
+            "cost": {
+              "coin": {
+                "9": 837
+              }
+            },
+            "level": 27,
+            "statBonus": {
+              "armorPenetration": 2010
+            }
+          },
+          "28": {
+            "cost": {
+              "coin": {
+                "9": 837
+              }
+            },
+            "level": 28,
+            "statBonus": {
+              "armorPenetration": 2185
+            }
+          },
+          "29": {
+            "cost": {
+              "coin": {
+                "9": 837
+              }
+            },
+            "level": 29,
+            "statBonus": {
+              "armorPenetration": 2360
+            }
+          },
+          "30": {
+            "cost": {
+              "coin": {
+                "9": 837
+              }
+            },
+            "level": 30,
+            "statBonus": {
+              "armorPenetration": 2535
+            }
+          },
+          "31": {
+            "cost": {
+              "coin": {
+                "9": 1108
+              }
+            },
+            "level": 31,
+            "statBonus": {
+              "armorPenetration": 2762
+            }
+          },
+          "32": {
+            "cost": {
+              "coin": {
+                "9": 1108
+              }
+            },
+            "level": 32,
+            "statBonus": {
+              "armorPenetration": 2989
+            }
+          },
+          "33": {
+            "cost": {
+              "coin": {
+                "9": 1108
+              }
+            },
+            "level": 33,
+            "statBonus": {
+              "armorPenetration": 3216
+            }
+          },
+          "34": {
+            "cost": {
+              "coin": {
+                "9": 1108
+              }
+            },
+            "level": 34,
+            "statBonus": {
+              "armorPenetration": 3443
+            }
+          },
+          "35": {
+            "cost": {
+              "coin": {
+                "9": 1108
+              }
+            },
+            "level": 35,
+            "statBonus": {
+              "armorPenetration": 3670
+            }
+          },
+          "36": {
+            "cost": {
+              "coin": {
+                "9": 1235
+              }
+            },
+            "level": 36,
+            "statBonus": {
+              "armorPenetration": 3915
+            }
+          },
+          "37": {
+            "cost": {
+              "coin": {
+                "9": 1235
+              }
+            },
+            "level": 37,
+            "statBonus": {
+              "armorPenetration": 4160
+            }
+          },
+          "38": {
+            "cost": {
+              "coin": {
+                "9": 1235
+              }
+            },
+            "level": 38,
+            "statBonus": {
+              "armorPenetration": 4405
+            }
+          },
+          "39": {
+            "cost": {
+              "coin": {
+                "9": 1235
+              }
+            },
+            "level": 39,
+            "statBonus": {
+              "armorPenetration": 4650
+            }
+          },
+          "40": {
+            "cost": {
+              "coin": {
+                "9": 1235
+              }
+            },
+            "level": 40,
+            "statBonus": {
+              "armorPenetration": 4895
+            }
+          },
+          "41": {
+            "cost": {
+              "coin": {
+                "9": 1330
+              }
+            },
+            "level": 41,
+            "statBonus": {
+              "armorPenetration": 5157
+            }
+          },
+          "42": {
+            "cost": {
+              "coin": {
+                "9": 1330
+              }
+            },
+            "level": 42,
+            "statBonus": {
+              "armorPenetration": 5419
+            }
+          },
+          "43": {
+            "cost": {
+              "coin": {
+                "9": 1330
+              }
+            },
+            "level": 43,
+            "statBonus": {
+              "armorPenetration": 5681
+            }
+          },
+          "44": {
+            "cost": {
+              "coin": {
+                "9": 1330
+              }
+            },
+            "level": 44,
+            "statBonus": {
+              "armorPenetration": 5943
+            }
+          },
+          "45": {
+            "cost": {
+              "coin": {
+                "9": 1330
+              }
+            },
+            "level": 45,
+            "statBonus": {
+              "armorPenetration": 6205
+            }
+          },
+          "46": {
+            "cost": {
+              "coin": {
+                "9": 1447
+              }
+            },
+            "level": 46,
+            "statBonus": {
+              "armorPenetration": 6485
+            }
+          },
+          "47": {
+            "cost": {
+              "coin": {
+                "9": 1447
+              }
+            },
+            "level": 47,
+            "statBonus": {
+              "armorPenetration": 6765
+            }
+          },
+          "48": {
+            "cost": {
+              "coin": {
+                "9": 1447
+              }
+            },
+            "level": 48,
+            "statBonus": {
+              "armorPenetration": 7045
+            }
+          },
+          "49": {
+            "cost": {
+              "coin": {
+                "9": 1447
+              }
+            },
+            "level": 49,
+            "statBonus": {
+              "armorPenetration": 7325
+            }
+          },
+          "50": {
+            "cost": {
+              "coin": {
+                "9": 1447
+              }
+            },
+            "level": 50,
+            "statBonus": {
+              "armorPenetration": 7605
+            }
+          },
+          "51": {
+            "cost": {
+              "coin": {
+                "9": 1559
+              }
+            },
+            "level": 51,
+            "statBonus": {
+              "armorPenetration": 7902
+            }
+          },
+          "52": {
+            "cost": {
+              "coin": {
+                "9": 1559
+              }
+            },
+            "level": 52,
+            "statBonus": {
+              "armorPenetration": 8199
+            }
+          },
+          "53": {
+            "cost": {
+              "coin": {
+                "9": 1559
+              }
+            },
+            "level": 53,
+            "statBonus": {
+              "armorPenetration": 8496
+            }
+          },
+          "54": {
+            "cost": {
+              "coin": {
+                "9": 1559
+              }
+            },
+            "level": 54,
+            "statBonus": {
+              "armorPenetration": 8793
+            }
+          },
+          "55": {
+            "cost": {
+              "coin": {
+                "9": 1559
+              }
+            },
+            "level": 55,
+            "statBonus": {
+              "armorPenetration": 9090
+            }
+          },
+          "56": {
+            "cost": {
+              "coin": {
+                "9": 1676
+              }
+            },
+            "level": 56,
+            "statBonus": {
+              "armorPenetration": 9405
+            }
+          },
+          "57": {
+            "cost": {
+              "coin": {
+                "9": 1676
+              }
+            },
+            "level": 57,
+            "statBonus": {
+              "armorPenetration": 9720
+            }
+          },
+          "58": {
+            "cost": {
+              "coin": {
+                "9": 1676
+              }
+            },
+            "level": 58,
+            "statBonus": {
+              "armorPenetration": 10035
+            }
+          },
+          "59": {
+            "cost": {
+              "coin": {
+                "9": 1676
+              }
+            },
+            "level": 59,
+            "statBonus": {
+              "armorPenetration": 10350
+            }
+          },
+          "60": {
+            "cost": {
+              "coin": {
+                "9": 1676
+              }
+            },
+            "level": 60,
+            "statBonus": {
+              "armorPenetration": 10665
+            }
+          }
+        }

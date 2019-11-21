@@ -1,0 +1,6 @@
+ya = game_command_rpc_RpcRequest
+
+
+
+	var heroSkinUpgrade = game_model_GameModel.get_instance().actionManager.get_hero().heroSkinUpgrade(this.skinVO.get_hero(),this.skinVO.get_skin(),false);
+	

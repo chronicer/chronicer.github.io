@@ -1,0 +1,27 @@
+this.Zza = this.player.heroMaxUpgrade
+
+this.j.Yqa
+
+
+Ns = createHeroList
+
+
+         for (var a = [], b = this.Zpb(), c = 0, e = b.length; c < e;) {
+                var h = c++;
+                h = this.e1a(b[h]);
+                null != h && a.push(h)
+            }
+            for (b = a.length; 20 > b || 0 < b % 5;) a.push(this.wob()), ++b;
+            a.sort(f(this, this.KF));
+            return a
+
+
+
+
+
+if (this.AF && null != this.j.Zza.list) {
+                b = this.j.Zza.list;
+                c = 0;
+                for (e = b.length; c < e;) h = c++, a.push(new rd(this, Zc.gN(b[h])));
+                a.sort(f(this, this.KF))
+            }

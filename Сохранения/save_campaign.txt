@@ -1,0 +1,1756 @@
+{
+ "response": [
+    {
+      "id": 1,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 2,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 3,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 4,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 5,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 6,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 7,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 8,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 9,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 10,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 11,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 12,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 13,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 14,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 15,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 16,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 17,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 18,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 19,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 20,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 21,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 22,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 23,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 24,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 25,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 26,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 27,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 28,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 29,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 30,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 31,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 32,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 33,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 34,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 35,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 36,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 37,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 38,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 39,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 40,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 41,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 42,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 43,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 44,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 45,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 46,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 47,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 48,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 49,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 50,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 51,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 52,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 53,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 54,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 55,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 56,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 57,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 58,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 59,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 60,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 61,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 62,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 63,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 64,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 65,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 66,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 67,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 68,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 69,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 70,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 71,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 72,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 73,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 74,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 75,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 76,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 77,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 78,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 79,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 80,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 81,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 82,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 83,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 84,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 85,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 86,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 87,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 88,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 89,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 90,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 91,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 92,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 93,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 94,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 95,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 96,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 97,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 98,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 99,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 100,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 101,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 102,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 103,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 104,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 105,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 106,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 107,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 108,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 109,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 110,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 111,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 112,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 113,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 114,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 115,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 116,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 117,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 118,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 119,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 120,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 121,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 122,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 123,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 124,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 125,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 126,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 127,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 128,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 129,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 130,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 131,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 132,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 133,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 134,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 135,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 136,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 137,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 138,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 139,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 140,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 141,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 142,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 143,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 144,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 145,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 146,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 147,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 148,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 149,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 150,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 151,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 152,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 153,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 154,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 155,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 156,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 157,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 158,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 159,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 160,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 161,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 162,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 163,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 164,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 165,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 166,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 167,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 168,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 169,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 170,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 171,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 172,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 173,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 174,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 175,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 176,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 177,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 178,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 179,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 180,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 181,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 182,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 183,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 184,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 185,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 186,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 187,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 188,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    },
+    {
+      "id": 189,
+      "stars": 3,
+      "triesSpent": 0,
+      "resetToday": 0
+    }
+  ],
+  "heroes": {
+    "2": {
+      "id": "2",
+      "xp": 0,
+      "level": 1,
+      "color": 1,
+      "slots": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "skills": {
+        "270": 1,
+        "271": 0,
+        "272": 0,
+        "273": 0
+      },
+      "star": 1,
+      "runes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "skins": {},
+      "currentSkin": 0,
+      "titanGiftLevel": 0,
+      "titanCoinsSpent": "0,",
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 1
+    },
+    "4": {
+      "id": "4",
+      "xp": 0,
+      "level": 1,
+      "color": 1,
+      "slots": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "skills": {
+        "255": 1,
+        "256": 0,
+        "257": 0,
+        "258": 0
+      },
+      "star": 2,
+      "runes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "skins": {},
+      "currentSkin": 0,
+      "titanGiftLevel": 0,
+      "titanCoinsSpent": "0,",
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 1
+    },
+    "6": {
+      "id": "6",
+      "xp": 0,
+      "level": 1,
+      "color": 1,
+      "slots": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "skills": {
+        "27": 1,
+        "28": 0,
+        "29": 0,
+        "30": 0
+      },
+      "star": 1,
+      "runes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "skins": {},
+      "currentSkin": 0,
+      "titanGiftLevel": 0,
+      "titanCoinsSpent": "0,",
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 1
+    },
+    "7": {
+      "id": "7",
+      "xp": 0,
+      "level": 1,
+      "color": 1,
+      "slots": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "skills": {
+        "32": 1,
+        "33": 0,
+        "34": 0,
+        "35": 0
+      },
+      "star": 1,
+      "runes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "skins": {},
+      "currentSkin": 0,
+      "titanGiftLevel": 0,
+      "titanCoinsSpent": "0,",
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 1
+    },
+    "19": {
+      "id": "19",
+      "xp": 0,
+      "level": 1,
+      "color": 1,
+      "slots": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "skills": {
+        "92": 1,
+        "93": 0,
+        "94": 0,
+        "95": 0
+      },
+      "star": 2,
+      "runes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "skins": {},
+      "currentSkin": 0,
+      "titanGiftLevel": 0,
+      "titanCoinsSpent": "0,",
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 1
+    },
+    "20": {
+      "id": "20",
+      "xp": 0,
+      "level": 1,
+      "color": 1,
+      "slots": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "skills": {
+        "97": 1,
+        "98": 0,
+        "99": 0,
+        "100": 0
+      },
+      "star": 1,
+      "runes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "skins": {},
+      "currentSkin": 0,
+      "titanGiftLevel": 0,
+      "titanCoinsSpent": "0,",
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 1
+    }
+  },
+  "titans": {
+    "4000": {
+      "id": 4000,
+      "xp": 0,
+      "level": 1,
+      "star": 1,
+      "skills": {
+        "4001": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    },
+    "4001": {
+      "id": 4001,
+      "xp": 0,
+      "level": 1,
+      "star": 1,
+      "skills": {
+        "4003": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    },
+    "4002": {
+      "id": 4002,
+      "xp": 0,
+      "level": 1,
+      "star": 1,
+      "skills": {
+        "4005": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    },
+    "4003": {
+      "id": 4003,
+      "xp": 0,
+      "level": 1,
+      "star": 3,
+      "skills": {
+        "4007": 1,
+        "4008": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    },
+    "4010": {
+      "id": 4010,
+      "xp": 0,
+      "level": 1,
+      "star": 1,
+      "skills": {
+        "4010": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    },
+    "4011": {
+      "id": 4011,
+      "xp": 0,
+      "level": 1,
+      "star": 1,
+      "skills": {
+        "4012": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    },
+    "4012": {
+      "id": 4012,
+      "xp": 0,
+      "level": 1,
+      "star": 1,
+      "skills": {
+        "4014": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    },
+    "4013": {
+      "id": 4013,
+      "xp": 0,
+      "level": 1,
+      "star": 3,
+      "skills": {
+        "4016": 1,
+        "4017": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    },
+    "4020": {
+      "id": 4020,
+      "xp": 0,
+      "level": 1,
+      "star": 1,
+      "skills": {
+        "4019": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    },
+    "4021": {
+      "id": 4021,
+      "xp": 0,
+      "level": 1,
+      "star": 1,
+      "skills": {
+        "4021": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    },
+    "4022": {
+      "id": 4022,
+      "xp": 0,
+      "level": 1,
+      "star": 1,
+      "skills": {
+        "4023": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    },
+    "4023": {
+      "id": 4023,
+      "xp": 0,
+      "level": 1,
+      "star": 3,
+      "skills": {
+        "4025": 1,
+        "4026": 1
+      },
+      "power": 0,
+      "artifacts": [
+        {
+          "level": 1,
+          "star": 0
+        },
+        {
+          "level": 0,
+          "star": 0
+        },
+        {
+          "level": 1,
+          "star": 0
+        }
+      ],
+      "scale": 0.8,
+      "skins": {}
+    }
+  },
+  "totems": {
+    "water": {
+      "id": 4001,
+      "level": 1,
+      "star": 0
+    },
+    "fire": {
+      "id": 4002,
+      "level": 1,
+      "star": 0
+    },
+    "earth": {
+      "id": 4003,
+      "level": 1,
+      "star": 0
+    }
+  }
+}
