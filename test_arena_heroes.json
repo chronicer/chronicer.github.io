@@ -1,6 +1,5 @@
 {
-          "hero": [
-            {
+          "hero": {
               "1": {
                 "id": 7,
                 "xp": 762,
@@ -292,8 +291,8 @@
                 "favorPetId": 0,
                 "favorPower": 0
               }
-            }
-          ],
+            },
+			"titans": {},
           "effects": {
             "attackers": {
               "percentBuff_allAttacks": 3,
