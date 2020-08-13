@@ -1,0 +1,78 @@
+{
+  "date": 1596973152.74388,
+  "results": [
+    {
+      "ident": "body",
+      "result": {
+        "response": {
+          "chat": [
+            {
+              "id": "16953023",
+              "userId": "761790",
+              "messageType": "challenge",
+              "ctime": "1596972991",
+              "data": {
+                "ids": [],
+                "power": 162237,
+                "type": "hero",
+                "manual": true,
+                "maxUpgrade": false,
+                "heroes": [
+                  {
+                    "id": 33,
+                    "level": 113,
+                    "color": 11,
+                    "star": 6
+                  },
+                  {
+                    "id": 3,
+                    "level": 113,
+                    "color": 11,
+                    "star": 5
+                  },
+                  {
+                    "id": 34,
+                    "level": 113,
+                    "color": 11,
+                    "star": 6
+                  },
+                  {
+                    "id": 4,
+                    "level": 113,
+                    "color": 12,
+                    "star": 5
+                  }
+                ]
+              }
+            }
+          ],
+          "users": {
+            "761790": {
+              "id": "761790",
+              "name": "Руслан",
+              "lastLoginTime": "1596973136",
+              "serverId": "5",
+              "level": "113",
+              "clanId": "2770",
+              "clanRole": "255",
+              "avatarId": "296",
+              "isChatModerator": false,
+              "frameId": null,
+              "leagueId": null,
+              "allowPm": "all",
+              "accountId": "15093021438215810115",
+              "clanTitle": "ПИРАРАТЫ",
+              "clanIcon": {
+                "flagColor1": 7,
+                "flagColor2": 0,
+                "flagShape": 5,
+                "iconColor": 7,
+                "iconShape": 5
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
