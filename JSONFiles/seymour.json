@@ -11,20 +11,7 @@
         "scale": 2.86,
         "hp": 0,
         "agility": 84534,
-        "artifacts": [
-          {
-            "level": 1,
-            "star": 0
-          },
-          {
-            "level": 1,
-            "star": 0
-          },
-          {
-            "level": 1,
-            "star": 0
-          }
-        ],
+        "artifacts": null,
         "intelligence": 84534,
         "physicalAttack": 301296,
         "strength": 169034,
