@@ -1,0 +1,53 @@
+{{
+  "defenders": [
+    {
+      "0": {
+        "id": 1070,
+        "xp": 3625195,
+        "level": 130,
+        "color": 18,
+        "power": 33,
+        "star": 6,
+        "scale": 2.86,
+        "hp": 0,
+        "agility": 84534,
+        "artifacts": [
+          {
+            "level": 1,
+            "star": 0
+          },
+          {
+            "level": 1,
+            "star": 0
+          },
+          {
+            "level": 1,
+            "star": 0
+          }
+        ],
+        "intelligence": 84534,
+        "physicalAttack": 301296,
+        "strength": 169034,
+        "armor": 0,
+        "armorPenetration": 0,
+        "lifesteal": 0,
+        "magicPenetration": 0,
+        "dodge": 0,
+        "magicPower": 0,
+        "magicResist": 0,
+        "physicalCritChance": 0,
+        "skills": {
+          "1085": 130,
+          "1086": 130,
+          "1087": 130,
+          "1088": 130,
+          "1089": 130,
+          "1090": 130,
+          "1091": 130
+        },
+        "skin": "null"
+      }
+    }
+  ]
+  }
+}
