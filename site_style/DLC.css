@@ -1,0 +1,75 @@
+  .img-wrap {
+    position: relative;
+  }
+  .img-wrap img {
+    position: absolute;
+  }
+  
+  
+.modal {
+	position: fixed;
+	display: block;
+	top: 0;
+	left: 0;
+	width: 30%;
+	height: 100%;
+	max-width: 100%;
+	max-height: 100%;
+	z-index: 1010;
+	background: white;
+	background-size: 100% 100%;
+}
+
+.closed{display: none;}
+
+.modal.closed{display: none;}
+
+.modal-overlay{
+	z-index: 1000;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.close_button{
+	background:url("button.png");
+	background-repeat: round;
+	border:0;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 30%;
+	height: 7%;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 10px;
+	font-size: 120%;
+}
+
+.open_button{
+	background:url("button.png");
+	background-repeat: round;
+	border:0;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 10%;
+	height: 8%;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 10px;
+	font-size: 120%;
+	z-index: 1000; 
+}
+
+.modal-guts{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	padding: 20px 50px 20px 20px; 
+}
