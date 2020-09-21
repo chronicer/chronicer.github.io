@@ -1,7 +1,4 @@
 {
-    "battle": {
-      "userId": "761790",
-      "typeId": "761790",
       "attackers": {
         "3": {
           "id": 3,
@@ -713,4 +710,3 @@
       "startTime": 1597173008,
       "type": "clan_pvp"
     }
-  }

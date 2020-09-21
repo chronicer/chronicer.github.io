@@ -1,0 +1,15 @@
+{	
+	"agility": "Ловкость",
+	"hp": "ХП",
+	"intelligence": "Интеллект",
+	"strength": "Сила",
+	"physicalAttack": "Атака",
+	"magicPower": "Маг. атака",
+	"magicResist": "Защита от магии",
+	"armorPenetration": "Пробив брони",
+	"lifesteal": "Вампиризм",
+	"magicPenetration": "Пробив маг. защиты",
+	"dodge": "Уворот",
+	"physicalCritChance": "Шанс крита",
+	"armor": "Броня"
+}
