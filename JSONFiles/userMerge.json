@@ -1,0 +1,21 @@
+{
+  "date": 1600776361.203828,
+  "results": [
+    {
+      "ident": "body",
+      "result": {
+        "response": {
+          "needMerge": false,
+          "processingMerge": false,
+          "bonusEndTime": 0
+        }
+      }
+    },
+    {
+      "ident": "getTime",
+      "result": {
+        "response": 1600776361
+      }
+    }
+  ]
+}

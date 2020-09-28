@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:33f9b1dc7257df2e568a89f9a724a636:6eb9cee7bcaa90197e9fc2a54e9a30a7:b134182f71159a98a61560c2d2301ba0$ -->
+<TextureAtlas imagePath="hero_icons_2.png" width="1068" height="248">
+    <SubTexture name="0050" x="2" y="2" width="80" height="80"/>
+    <SubTexture name="0051" x="2" y="84" width="80" height="80"/>
+    <SubTexture name="6006" x="2" y="166" width="80" height="80"/>
+    <SubTexture name="akso_01" x="166" y="84" width="80" height="80"/>
+    <SubTexture name="akso_02" x="166" y="166" width="80" height="80"/>
+    <SubTexture name="akso_03" x="248" y="2" width="80" height="80"/>
+    <SubTexture name="akso_04" x="248" y="84" width="80" height="80"/>
+    <SubTexture name="akso_05" x="248" y="166" width="80" height="80"/>
+    <SubTexture name="akso_06" x="330" y="2" width="80" height="80"/>
+    <SubTexture name="akso_07" x="330" y="84" width="80" height="80"/>
+    <SubTexture name="akso_08" x="330" y="166" width="80" height="80"/>
+    <SubTexture name="ang_0050" x="412" y="2" width="80" height="80"/>
+    <SubTexture name="ang_0051" x="412" y="84" width="80" height="80"/>
+    <SubTexture name="ang_6006" x="412" y="166" width="80" height="80"/>
+    <SubTexture name="cat1" x="494" y="2" width="80" height="80"/>
+    <SubTexture name="cat2" x="494" y="84" width="80" height="80"/>
+    <SubTexture name="Darkness_1_new" x="84" y="2" width="80" height="80"/>
+    <SubTexture name="Darkness_2_new" x="84" y="84" width="80" height="80"/>
+    <SubTexture name="Darkness_3_new" x="84" y="166" width="80" height="80"/>
+    <SubTexture name="hpy_0050" x="494" y="166" width="80" height="80"/>
+    <SubTexture name="hpy_0051" x="576" y="2" width="80" height="80"/>
+    <SubTexture name="hpy_6006" x="576" y="84" width="80" height="80"/>
+    <SubTexture name="icon_turtle" x="576" y="166" width="80" height="80"/>
+    <SubTexture name="icon_turtle_bronze" x="658" y="2" width="80" height="80"/>
+    <SubTexture name="icon_turtle_diamond" x="658" y="84" width="80" height="80"/>
+    <SubTexture name="icon_turtle_gold" x="658" y="166" width="80" height="80"/>
+    <SubTexture name="icon_turtle_silver" x="740" y="2" width="80" height="80"/>
+    <SubTexture name="Leviathan" x="166" y="2" width="80" height="80"/>
+    <SubTexture name="mandragora1" x="740" y="84" width="80" height="80"/>
+    <SubTexture name="mandragora2" x="740" y="166" width="80" height="80"/>
+    <SubTexture name="mandragora3" x="822" y="2" width="80" height="80"/>
+    <SubTexture name="skin_0179" x="822" y="84" width="80" height="80"/>
+    <SubTexture name="skin_0180" x="822" y="166" width="80" height="80"/>
+    <SubTexture name="skin_0181" x="904" y="2" width="80" height="80"/>
+    <SubTexture name="skin_ang_0179" x="904" y="84" width="80" height="80"/>
+    <SubTexture name="skin_ang_0180" x="904" y="166" width="80" height="80"/>
+    <SubTexture name="skin_ang_0181" x="986" y="2" width="80" height="80"/>
+</TextureAtlas>
