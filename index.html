@@ -24,7 +24,7 @@
 	<meta property="og:url" content="https://hero-wars.com" />
 	<meta property="og:site_name" content="Хроники Хаоса" />
 	<meta property="fb:app_id" content="283627762245717" />
-	<link rel="stylesheet" href="site_style/herowars_style.css" />
+	<link rel="stylesheet" href="site_style/style.css" />
 
 	<script>
 		var timestamp = new Date();
@@ -34,7 +34,7 @@
 		var NXAppHeight = '640';
 		var NXAuth = 'ps-G4cHxV6g-1560099610-146.120.180.234-63b9401d79f1d65f2355fc77f64f96e0';
 		var NXAccountId = '166596';
-		//var NXRPCURL = 'https://heroes-wb.nextersglobal.com/api/';
+		var NXRPCURL = 'https://heroes-wb.nextersglobal.com/api/';
 		//var NXSiteUrl ='https://hero-wars.com/';
 		//var NXXsollaUrl ='https://secure.xsolla.com/paystation2/?access_token=';
 		var NXLang = 'ru';
@@ -78,7 +78,9 @@
 		<div class="center" >
 
 			<div id="flash-wrapper">
+			
 				<div id="flash-content">
+				
 					<div class="flash-update-bg">
 						<div class="jshaxe-content-text">
 							Загрузка...						</div>
@@ -113,14 +115,47 @@
 
 	<script type="text/javascript">
 
-		  //var NXFlashVars = {"m":"registration","sys_id":"4","network":"web","ident":"heroes","uid":166596,"app_id":"3","interface_lang":"ru","auth_key":"ps-G4cHxV6g-1560099610-146.120.180.234-63b9401d79f1d65f2355fc77f64f96e0","requestLoadingInfoTimeout":"3000","rpc_url":"null","discord_url":"https://discordapp.com/invite/taD5rp9","twitter_url":"https://twitter.com/HeroWarsGame","youtube_url":"https://www.youtube.com/c/HeroWars?sub_confirmation=1","game_url":"https://hero-wars.com/","nx_source":"","currency":"RUB","url_custom_params":"","group_url":"https://facebook.com/herowarsgame","index_url":"//heroes-a.akamaihd.net/wb/index.v0104.json.gz","preloader_asset":"preloader_ru.swf","country_code":"RU","geoip_city":"","static_url":"https://heroes-a.akamaihd.net/","preloader":"https://heroes-a.akamaihd.net/WebHeroLoader.swf","error_url":"https://error.nextersglobal.com/client/","socialInfo":{"fistName":""},"browser":"google chrome"};
-		var NXFlashVars = {"m":"registration","sys_id":"4","network":"web","ident":"heroes","uid":166596,"app_id":"3","interface_lang":"ru","auth_key":"ps-G4c0","requestLoadingInfoTimeout":"3000","rpc_url":"null","discord_url":"https://discordapp.com/invite/taD5rp9","twitter_url":"https://twitter.com/HeroWarsGame","youtube_url":"https://www.youtube.com/c/HeroWars?sub_confirmation=1","game_url":"https://hero-wars.com/","nx_source":"","currency":"RUB","url_custom_params":"","group_url":"https://facebook.com/herowarsgame","index_url":"","country_code":"RU","static_url":"","browser":"google chrome"};
-		var haxeDom = document.getElementById('flash-content');
+
+	var NXFlashVars = {"api_url":"https://api.vk.com/api.php","api_id":"5327745","api_settings":"2097154","viewer_id":"153926310","viewer_type":"0","sid":"fbe3e92e0d544c734d13a5dde0e45b9fbbb1b59da2007538180e1a4ef97db533bf111f0ffe54a7977eefe","secret":"e564a4d316","access_token":"a00f5b857b22f427385e3d17097a21f206ff59bbc088913db2e29571d2da76024260366a1678abc3e7d76","user_id":"0","group_id":"0","is_app_user":"1","auth_key":"ps-fKqrAvAW-1605510845-146.120.182.79-71463e017ebccc87deaa28b44f525f16","language":"0","parent_language":"0","is_secure":"1","stats_hash":"fd427e2fc49965bc68","ads_app_id":"5327745_89667d205cc14a3222","referrer":"unknown","lc_name":"b0495f30","platform":"web","whitelist_scopes":"friends,photos,video,stories,pages,status,notes,wall,docs,groups,stats,market,ads,notifications","group_whitelist_scopes":"stories,photos,app_widget,messages,wall,docs,manage","hash":"","app_id":"5327745","browser":"chrome","country_code":"UA","error_url":"https://error.nextersglobal.com/client/","game_url":"https://vk.com/bestmoba?unknown","geoip_city":"","ident":"heroes","iframe_static_url":"https://heroes.cdnvideo.ru/iframe_v2/","index_url":"https://heroes.cdnvideo.ru/vk/index.v0697.json.gz","interface_lang":"ru","network":"vkontakte","onlineCnt":0,"onlineInterval":100000,"preloader_asset":"preloader_ru.swf","ref":"unknown","requestLoadingInfoTimeout":"3000",
+	"rpc_url":"https://heroes-vk.nextersglobal.com/api/","stat_url":"https://stat.nextersglobal.com/collector/client/","static_url":"https://heroes.cdnvideo.ru/vk/","sys_id":"1","uid":"153926310","static_urls":["https://heroes.cdnvideo.ru/vk/"],"group_url":"https://vk.com/club116039030","miniloader":"https://heroes.cdnvideo.ru/vk/v0691/assets/MiniHeroLoader.swf","preloader":"https://heroes.cdnvideo.ru/vk/VkontakteHeroLoader.swf"};
+	var haxeDom = document.getElementById('flash-content');
+
+	if (NXFlashVars === '') {
+		NXSendErrorDString('NXFlashVars is empty');
+	}
+
+	if (window.lime) {
+		haxeDom.innerHTML = '';
+		haxeDom.style.visibility = 'visible';
+		lime.embed('heroeshx', 'flash-content', 0, 0, {parameters: NXFlashVars});
+	} else {
+		$.ajax({
+			url: 'https://heroes.cdnvideo.ru/vk/v0695/assets/heroes.js',
+			dataType: 'text',
+			success: function(data, status) {
+				eval(data);
+				haxeDom.innerHTML = '';
+				haxeDom.style.visibility = 'visible';
+				lime.embed('heroeshx', 'flash-content', 0, 0, {parameters: NXFlashVars});
+			},
+			error: function(xhr, desc, er) {
+				var text = 'Error loading client js, again.';
+				text += ' Status: '+xhr.readyState;
+				text += ' Text: '+xhr.statusText;
+				text += ' State: '+xhr.state();
+				NXSendErrorDString(text);
+			}
+		});
+	}
+
+		//var NXFlashVars = {"m":"registration","sys_id":"4","network":"web","ident":"heroes","uid":166596,"app_id":"3","interface_lang":"ru","auth_key":"ps-G4cHxV6g-1560099610-146.120.180.234-63b9401d79f1d65f2355fc77f64f96e0","requestLoadingInfoTimeout":"3000","rpc_url":"null","discord_url":"https://discordapp.com/invite/taD5rp9","twitter_url":"https://twitter.com/HeroWarsGame","youtube_url":"https://www.youtube.com/c/HeroWars?sub_confirmation=1","game_url":"https://hero-wars.com/","nx_source":"","currency":"RUB","url_custom_params":"","group_url":"https://facebook.com/herowarsgame","index_url":"//heroes-a.akamaihd.net/wb/index.v0104.json.gz","preloader_asset":"preloader_ru.swf","country_code":"RU","geoip_city":"","static_url":"https://heroes-a.akamaihd.net/","preloader":"https://heroes-a.akamaihd.net/WebHeroLoader.swf","error_url":"https://error.nextersglobal.com/client/","socialInfo":{"fistName":""},"browser":"google chrome"};
+		//var NXFlashVars = {"m":"registration","sys_id":"4","network":"web","ident":"heroes","uid":166596,"app_id":"3","interface_lang":"ru","auth_key":"ps-G4c0","requestLoadingInfoTimeout":"3000","rpc_url":"null","discord_url":"https://discordapp.com/invite/taD5rp9","twitter_url":"https://twitter.com/HeroWarsGame","youtube_url":"https://www.youtube.com/c/HeroWars?sub_confirmation=1","game_url":"https://hero-wars.com/","nx_source":"","currency":"RUB","url_custom_params":"","group_url":"https://facebook.com/herowarsgame","index_url":"","country_code":"RU","static_url":"","browser":"google chrome"};
+		//var haxeDom = document.getElementById('flash-content');
 
 	</script>
 	
 
-	<script crossorigin="anonymous" src="heroes_0440.js" onerror="NXJsLoadError()"  type="text/javascript"></script>
+	<script crossorigin="anonymous" src="herowars_test_version.js" onerror="NXJsLoadError()"  type="text/javascript"></script>
 	<script type="text/javascript">
 		if (window.lime) {
 			haxeDom.innerHTML = '';
