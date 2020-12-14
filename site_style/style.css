@@ -9,7 +9,6 @@ border-radius: 10px;
 position:absolute;
 z-index: 2000;
 width:500px;
-margin: 0 auto;
 }
 
 .close_button {
@@ -19,8 +18,6 @@ margin: 0 auto;
 	z-index:2001;
 	cursor: pointer;
 }
-
- .card IMG { position: relative;float:left;margin-left:10px; }
 
 
 .packs {
@@ -38,10 +35,10 @@ margin: 0 auto;
 }
 
 .star_icon {
-	width:50px;
+	/*width:50px;
 	height:37px;
 	left:8px;
-	bottom:0;
+	bottom:0;*/
 }
  
  .frame_icon_img{
@@ -51,10 +48,10 @@ margin: 0 auto;
  }
  
   .hero_icon{
-	width:75px;
+	/*width:75px;
 	height:75px;
 	left:-8px;
-	margin:2px;
+	margin:2px;*/
  }
  
 .lvl_icon{
@@ -64,12 +61,11 @@ left:12px;
 .level_text {
 	position:absolute;
 	left:21px;
-	font-weight:600;
+	font-weight:900;
 	top:5px;
 }
 
 .img_check {
-	position: absolute;
 	width:20px;
 }
 
@@ -81,14 +77,11 @@ input[type=text] {
 	 border-radius: 10px;
 }
 
-.zagolovok {
-	position:absolute;
-	top: -10px;
-}
-
 .paragraph {
 	margin-top:5px;
+	margin-left:10px;
 }
+
 
 
 
@@ -106,3 +99,72 @@ label {
 	margin-bottom:10px;
 
 }
+
+
+
+
+.heroes {
+	width:100%;
+	height:70px;
+	margin:0 auto;
+	
+	
+}
+
+.level_icon{
+	position:absolute;
+	z-index:9998;
+	left:15px;
+	top:-2px;
+	width:35px
+}
+
+.level_text{
+	position:absolute;
+	z-index:9999;
+	font-size:12px;
+	font-weight:700;
+    left: 50%; /* position the left edge of the element at the middle of the parent */
+	top:9px;
+    transform: translate(-50%, -50%); /* This is a shorthand of
+                                         translateX(-50%) and translateY(-50%) */
+}
+
+
+.hero_icon{
+	left:0;
+	position:absolute;
+	width:63px;
+	border-radius:10px;
+}
+
+.rank_icon{
+	left:0;
+	position:absolute;
+	width:65px;
+}
+
+.star6_icon{
+	left:13px;
+	position:absolute;
+	width:40px;
+	bottom:0;
+}
+
+
+.star_icon{
+	position:relative;
+	width:13px;
+	float:left;
+	margin-top:48px;
+	  display: block;
+}
+
+
+
+.one_hero {
+	position:relative;
+	width:65px;
+	height:65px;
+	float:left;
+	
