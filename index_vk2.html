@@ -1,0 +1,651 @@
+<html><head><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<title>Хроники Хаоса</title>
+	<script>
+	//	if (window.top === window.self) {
+		//	window.top.location = 'https://vk.com/bestmoba?ad_id=stolen_iframe';
+		//}
+	</script>
+	<link href="https://heroesru-a.akamaihd.net/iframe_v2/css/feedback.v2.css?_nxv=3b8c0d2" rel="stylesheet" type="text/css" media="all">
+	<div id="flash-app"></div><script src="https://heroesru-a.akamaihd.net/vk/v0449/assets/libjs/howler.min.js?js=1"></script><script type="text/javascript" src="https://vk.com/js/api/openapi.js?168"></script></head>
+
+<body style="margin:0px;background-color: #FFFFFF;" oncontextmenu="return false;" class="bg--heroes">	
+
+	
+		<div class="like-box-wrapper" id="vk-likebox">
+			<div class="like-box-title">Подпишись и получай подарки каждый день!</div>
+			<div class="like-box-close">x</div>
+			<div id="vk_groups_popup"></div>
+		</div>
+
+	
+	<div id="flash-wrapper" style="height:640px; width: 100%;">
+		<style>
+	#flash-content .jshaxe-content-text {
+		display: block;
+		position: absolute;
+		color: #FFFFFF;
+		font-family: Arial, sans-serif;
+		font-size: 24px;
+		font-weight: bold;
+		top: 50%;
+		width: 100%;
+		height: 100px;
+		margin: 0 auto;
+	}
+	body.bg--heroes #flash-content .jshaxe-content-text {
+		color: #424142;
+	}
+</style>
+
+<div id="flash-content" style="background: black; height: 640px; visibility: visible; cursor: default;"><canvas width="1000" height="640" style="transform: translateZ(0px); width: 1000px; height: 640px; text-align: center;"></canvas></div>
+	</div>
+
+<script src="https://heroesru-a.akamaihd.net/iframe_v2/js-common/iframeLoaded.js?_nxv=f72f0c1"></script>
+<script>
+
+	function nxFrameSendStash(type, info) {
+		//var requestUrl = 'https://heroes-vk.nextersglobal.com/api/clientStat/?';
+		var requestUrl = 'http://localhost/?';
+
+		requestUrl += 'networkIdent=vkontakte';
+		requestUrl += '&applicationId=5327745';
+		requestUrl += '&type='+type;
+		requestUrl += '&userId=153926310';
+
+		if (info && typeof info === 'object') {
+			requestUrl += '&'+jQuery.param({
+				info: info
+			});
+		}
+
+		var img = new Image();
+		img.src = requestUrl;
+	}
+
+	function nxFrameSendStashInfo(type, info) {
+		info = info || {};
+		//$.get('https://heroes-vk.nextersglobal.com/api/clientStat/', {
+		$.get('http://localhost/?', {
+			networkIdent  : 'facebook',
+			applicationId : '5327745',
+			type          : type,
+			info          : info,
+			userId        : '153926310',
+		},
+		function(){},
+		'jsonp');
+	}
+
+	iframeLoaded('https://heroes-vk.nextersglobal.com/api/', {
+		userId : '153926310',
+		networkIdent : 'vkontakte',
+		referrer : 'apps_games_profile_favorites',
+		countryCode : 'UA'
+	});
+
+</script>
+
+
+
+	<script>
+	var NXCurrentTimestamp = 1616267642;
+	var NXFeedbackLang = 'ru';
+	if (navigator.userAgent.match('Chrome')) {
+
+		window.addEventListener('focus', function(){
+			setTimeout(function() {
+				$('#custom_footer .button-menu').css('opacity', 0.01);
+				$('#custom_footer .button-menu').show();
+				setTimeout(function() {
+					$('#custom_footer .button-menu').css('opacity', 1);
+					$('#custom_footer .button-menu').hide();
+					// document.getElementById('crutch_pixel');
+				}, 1000);
+			}, 1000);
+		});
+	}
+
+	
+	
+</script>
+
+
+
+
+
+	<div id="flash-helper"></div>
+
+	<script src="http://localhost/iframe_v2/js-dev/combined.dev.-sockets.js?_nxv=67d4e22" type="text/javascript"></script>
+<script src="http://localhost/iframe_v2/js-common/web_socket.js?_nxv=80aef61" type="text/javascript"></script>
+<script src="http://localhost/iframe_v2/js/nxg.lib.js?_nxv=a9656cb" type="text/javascript"></script>
+<script src="http://localhost/iframe_v2/dev/yt_new_video.js?_nxv=9ecf4a4" type="text/javascript"></script>
+<script src="http://localhost/iframe_v2/js/feedback.v2.js?_nxv=81062cf" type="text/javascript"></script>
+<script src="http://localhost/iframe_v2/js-dev/Pushd4ClientWar.js?_nxv=c05d6d6" type="text/javascript"></script>
+
+	<script type="text/javascript">
+
+	try {
+		window.nxg.registerModule('errord', new window.nxg.ErrordClient('vkontakte','5327745','153926310','https://error.nextersglobal.com/client/'));
+		window.nxg.registerModule('stat', new window.nxg.StatClient('vkontakte','5327745','153926310','2-12-85-06','54-46','https://stat.nextersglobal.com/collector/client/'));
+	} catch(e) {}
+
+	function NXSendErrorDString(text, errorKey) {
+		if (window.nxg && window.nxg.checkModule('errord')) {
+			text = text.substring(0, 2000);
+			window.nxg.getModule('errord').send({
+				url: '',
+				status: 0,
+				fversion: 'iframe',
+				appversion: '',
+				errorKey: errorKey,
+				request: 'JS iFrame Request',
+				response: text
+			});
+		}
+	}
+
+	function NXJsLoadError(that) {
+		NXSendErrorDString('Error loading client js, try fallback', 'JS Client Error');
+	}
+
+	window.onerror = function(message, source, lineno, colno, error) {
+		var errorKey = 'JS Client Error';
+		var err = '';
+		var stack = (error && error.stack && error.stack.toString());
+		if (!stack) {
+			stack = '';
+		}
+		if (source.match('iframe')) {
+			errorKey = 'JS iFrame Error';
+		}
+		err += message + '\n';
+		err += 'source: ' + source + '\n';
+		err += 'line: ' + lineno + '\n';
+		err += 'col: ' + colno + '\n';
+		err += 'stack: ' + stack;
+		NXSendErrorDString(err, errorKey);
+	}
+
+</script>
+
+<script src="http://localhost/heroes_0746_test.js" onerror="NXJsLoadError()" crossorigin="anonymous" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+	var NXFlashVars = {"api_url":"localhost","api_id":"5327745","api_settings":"2","viewer_id":"153926310","viewer_type":"0","sid":"62086898a3a83789753893d03ad375793991f21f318cfd2d9ffa2dad0b144f56aadb45d86e77e01e0836e","secret":"2e604f1ba6","access_token":"653a3cac49d1a22e2e235d1002fae1c41118066151cce4152dd26dd9594c3e4388264edcec1cb5be675a0","user_id":"0","group_id":"0","is_app_user":"1","auth_key":"ps-cDY6JQ4y-1616267642-146.120.181.210-e215a4f4c1c9fcf6691532afc525d7cd","language":"0","parent_language":"0","is_secure":"1","stats_hash":"a77bd463f36d02dc02","ads_app_id":"5327745_68e0f6619a390ca691","referrer":"apps_games_profile_favorites","lc_name":"2a72540a","platform":"web","whitelist_scopes":"friends,photos,video,stories,pages,status,notes,wall,docs,groups,stats,market,ads,notifications","group_whitelist_scopes":"stories,photos,app_widget,messages,wall,docs,manage","is_widescreen":"0","hash":"","app_id":"5327745","browser":"opera","country_code":"UA","error_url":"https://error.nextersglobal.com/client/","game_url":"https://vk.com/bestmoba?apps_games_profile_favorites","geoip_city":"","ident":"heroes","iframe_static_url":"https://heroesru-a.akamaihd.net/iframe_v2/","index_url":"index.v0736.json.gz","interface_lang":"ru","network":"vkontakte","onlineCnt":0,"onlineInterval":100000,"preloader_asset":"preloader_ru.swf","ref":"apps_games_profile_favorites","requestLoadingInfoTimeout":"3000","rpc_url":"https://heroes-vk.nextersglobal.com/api/","stat_url":"https://stat.nextersglobal.com/collector/client/","static_url":"https://heroesru-a.akamaihd.net/vk/","sys_id":"1","uid":"153926310","static_urls":["https://heroesru-a.akamaihd.net/vk/"],"group_url":"https://vk.com/club116039030","miniloader":"https://heroesru-a.akamaihd.net/vk/v0691/assets/MiniHeroLoader.swf","preloader":"https://heroesru-a.akamaihd.net/vk/VkontakteHeroLoader.swf"};
+	var haxeDom = document.getElementById('flash-content');
+
+	if (NXFlashVars === '') {
+		NXSendErrorDString('NXFlashVars is empty');
+	}
+
+	if (window.lime) {
+		haxeDom.innerHTML = '';
+		haxeDom.style.visibility = 'visible';
+		lime.embed('heroeshx', 'flash-content', 0, 0, {parameters: NXFlashVars});
+	} else {
+		$.ajax({
+			url: 'heroes_0733_test.js',
+			dataType: 'text',
+			success: function(data, status) {
+				eval(data);
+				haxeDom.innerHTML = '';
+				haxeDom.style.visibility = 'visible';
+				lime.embed('heroeshx', 'flash-content', 0, 0, {parameters: NXFlashVars});
+			},
+			error: function(xhr, desc, er) {
+				var text = 'Error loading client js, again.';
+				text += ' Status: '+xhr.readyState;
+				text += ' Text: '+xhr.statusText;
+				text += ' State: '+xhr.state();
+				NXSendErrorDString(text);
+			}
+		});
+	}
+
+</script>
+
+
+
+	<script type="text/javascript">
+		var timestamp = new Date();
+		var timestamp_swf = 0;
+
+		$('body').on('click', '#link_policy1, #link_terms1', function(e){
+			e.preventDefault();
+			var policy = $(this).attr('id') === 'link_policy1';
+			var container = $( policy ? '.policy' : '.terms' );
+			var endPoint = ( policy ? feedback.policyEndPoint : feedback.termsEndPoint );
+			var appTitle = '';
+			$('.content', container).load(endPoint, function(){
+				feedback.hideApp();
+				container.html( container.html().replace(/{project}/gi, appTitle) ).fadeIn();
+			});
+		});
+
+		function hideApplication() {
+			if (thisMovie('flash-app')) {
+				if (navigator.userAgent.indexOf("Firefox")!=-1 || navigator.userAgent.indexOf("Opera")!=-1) {
+					thisMovie('flash-app').style.visibility = 'hidden';
+				} else {
+					thisMovie('flash-app').parentNode.style.position = 'absolute';
+					thisMovie('flash-app').parentNode.style.top = "1000px";
+				}
+			}
+		};
+
+		function showApplication() {
+			if (thisMovie('flash-app')) {
+				if (navigator.userAgent.indexOf("Firefox")!=-1 || navigator.userAgent.indexOf("Opera")!=-1) {
+					thisMovie('flash-app').style.visibility = 'visible';
+				} else {
+					thisMovie('flash-app').parentNode.style.position = 'relative';
+					thisMovie('flash-app').parentNode.style.top = "0px";
+				}
+			}
+		};
+
+		function toggleApplication(action) {
+			if (action === 'show') showApplication();
+			if (action === 'hide') hideApplication();
+		};
+		
+		function likebox_show(title) { 
+			toggleApplication('hide');
+			if ( $('#vk-likebox').find('iframe').length === 0 ) {
+				VK.Widgets.Group("vk_groups_popup", {mode: 0, width: 500, height: 400}, '116039030' );
+			}
+			$('.like-box-title').text( title || 'Подпишись и получай подарки каждый день!' );
+			$('#vk-likebox').fadeIn(); 
+		}
+
+		function likebox_hide() { 
+			toggleApplication('show');
+			$('#vk-likebox').fadeOut(); 
+		}
+
+
+		function apiWrapper(args) {
+			if (args && args.method) {
+				var method = args.method.split('.'),
+				params = args.params || [];
+				if (typeof args.callback !== 'undefined') {
+					params.push(function(response1, response2, response3, response4) {
+						if (response1 && response2 && response3 && response4) {
+							thisMovie('flash-app')[ args.callback ](response1, response2, response3, response4);
+						} else if (response1 && response2 && response3) {
+							thisMovie('flash-app')[ args.callback ](response1, response2, response3);
+						} else if (response1 && response2) {
+							thisMovie('flash-app')[ args.callback ](response1, response2);
+						} else if (response1) {
+							thisMovie('flash-app')[ args.callback ](response1);
+						} else {
+							thisMovie('flash-app')[ args.callback ]();
+						}
+					});
+				}
+				window[ method[0] ][ method[1] ].apply(this, params);
+			}
+		}
+
+		function alertStatus(e) {
+			alert("e.success = " + e.success +"\ne.id = "+ e.id +"\ne.ref = "+ e.ref);
+		}
+
+		/*VK.init(function() {
+
+			nxg.ownEvents.emit('vk_api_init');
+
+			
+			
+				try {
+					var interval = setInterval(function(){
+						if (VK.Observer) {
+							VK.Observer.subscribe('widgets.groups.joined', function(){
+								thisMovie('flash-app').likeboxClosed();
+								likebox_hide();
+							});
+							clearInterval(interval);
+						}
+					}, 1000);
+
+					$(document).on('mouseup', function(e){
+						var lb = $('#vk-likebox');
+						if (!lb.is(e.target) && lb.has(e.target).length === 0) {
+							likebox_hide();
+						}
+					});
+
+					$('.like-box-close').on('click', likebox_hide);
+				} catch(e){}
+
+				try {
+					setTimeout(function(){
+
+						VK.Widgets.Like(
+							"vk_like",
+							{
+								type: "button",
+								height: 20,
+								width: 150,
+								pageUrl: "https://vk.com/app5327745",
+								pageTitle: "Мне нравится игра Хроники Хаоса. Попробуй и ты!",
+								base_domain: "https://vk.com/"
+							}
+							,1						);
+
+													VK.Widgets.Subscribe("vk_subscribe", {width:400}, -116039030);
+						
+					}, 60);
+
+				} catch(e) {}
+
+						
+			
+							VK.addCallback("onWindowBlur", function() {
+					hideApplication()
+				});
+				VK.addCallback("onWindowFocus", function() {
+					showApplication()
+				});
+			
+			
+			VK.api('getUserSettings', function(settings){
+				if (settings.response & 256) {
+					$('#addToMenu').parent().hide();
+				}
+			});
+
+			$('#addToMenu').click(function(e){
+				e.preventDefault();
+				VK.callMethod('showSettingsBox',256);
+				VK.addCallback('onSettingsChanged', function(settings) {
+					if (settings & 256) {
+						$('#addToMenu').parent().hide();
+					}
+				});
+			});
+
+			$('#button_i').on('click', function(e){
+				e.preventDefault();
+				VK.callMethod("showInviteBox");
+			});
+
+						
+		}, function(){
+			console.error('Error initalizing VK Api', arguments);
+		}, "5.95");
+*/
+	</script>
+
+	<script type="text/javascript">
+	$(document).ready(function(){
+		
+		var feedbackOptions = {"language":"ru","url":"https://i-heroes-vk.nextersglobal.com/iframe_social/vkontakte/heroes//feedback/index.php?request=","fantermsEndPoint":"https://i-heroes-vk.nextersglobal.com/iframe_social/vkontakte/heroes/terms/fan_terms_heroes.php","policyEndPoint":"https://i-heroes-vk.nextersglobal.com/iframe_social/vkontakte/heroes/terms/policy_heroes_ru.php","termsEndPoint":"https://i-heroes-vk.nextersglobal.com/iframe_social/vkontakte/heroes/terms/terms_heroes_ru.php"};
+
+		
+		window.feedback = new Feedback.Controller(feedbackOptions);
+
+		//swf callbacks
+		window.feedback._clickPrivacy = function() {
+			$('#link_policy').click();
+		};
+		window.feedback._clickTerms = function() {
+			$('#link_terms').click();
+		};
+
+	});
+</script>
+
+	<script>
+		function pushd_onmessage(message) {
+			var counterId;
+
+							if (window.yaCounter) {
+					counterId = '41407004';
+					if (message.type === 'iframeEvent.payment') {
+						window.yaCounter.reachGoal('pUsers');
+					} else if (message.type === 'iframeEvent.registration') {
+						window.yaCounter.reachGoal('regUsers');
+					} else if (message.type === 'iframeEvent.registration') {
+						window.yaCounter.reachGoal('tutorUsers');
+					}
+				}
+			
+		}
+	</script>
+
+	<script type="text/javascript">
+
+	function thisMovie(name) {
+		return window.document[name] || window[name] || document.embeds[name];
+	}
+
+	$(document).ready(function(){
+		try {
+
+			function setFlashMovie() {
+				if (thisMovie('flash-app')) {
+					window.nxg.setFlashMovie(thisMovie('flash-app'));
+				} else {
+					setTimeout(setFlashMovie, 500);
+				}
+			}
+			setFlashMovie();
+
+			window.nxg.registerModule(
+				'pushd',
+				new window.nxg.Pushd4Client(
+					['wss://pushd.nextersglobal.com:443/websocket'],
+					'vk',
+					'5327745',
+					'153926310',
+					"1616267642:cLT\/Ixqa:myIdDBtJsmQA4EhVMeBjMA"				)
+			);
+
+			window.nxg.getModule('pushd').connect();
+			window.nxg.getModule('pushd').on('message', pushd_onmessage);
+
+		} catch(e) {}
+	});
+
+</script>
+
+
+	
+	<script>
+
+
+	logUrl(NXFlashVars.uid, window.location.href)
+
+	function logUrl(uid, url) {
+
+		let info = {
+			"accountId": uid,
+			"url": url
+		};
+		nxFrameSendStashInfo('.client.iframe.accountRegistrationUrl', info);
+	}
+
+</script>
+	<script>
+	function NXJSScroll() {
+		try {
+
+			var isMac = /mac/i.test(navigator.userAgent);
+
+			var oldDelta = null;
+
+			var app = thisMovie('flash-app');
+			if (!app) {
+				return;
+			}
+
+			var subscriber = app.attachEvent ? 'attachEvent' : 'addEventListener';
+
+			var eventName = 
+				'onwheel' in document.createElement('div') ? 'wheel' :
+					document.onmousewheel !== undefined ? 'mousewheel' : 
+					'DOMMouseScroll';
+
+			function myHandleWheel(event) {
+
+				var app = thisMovie('flash-app');
+
+				if (app) {
+
+					var d = event.wheelDelta || (event.detail * -1) || (event.deltaY * -1);
+
+					var o = {
+						delta: d,
+						x: event.screenX,
+						y: event.screenY,
+						altKey: event.altKey,
+						ctrlKey: event.ctrlKey, 
+						shiftKey: event.shiftKey
+					};
+
+					if (typeof app.handleWheel === 'function') {
+						app.handleWheel(o);
+					}
+				}
+			}
+
+			function mouseWheel(event) {
+
+				event.preventDefault();
+
+				var fireEvent;
+
+				var newDelta = event.deltaY;
+
+				if (isMac && oldDelta !== null) {
+
+					if (oldDelta < 0 && newDelta > 0) {
+						fireEvent = true;
+					}
+
+					if (oldDelta > 0 && newDelta < 0) {
+						fireEvent = true;
+					}
+
+					if (oldDelta > 0 && newDelta > 0) {
+
+						if (oldDelta < newDelta) {
+							fireEvent = true;
+						} else {
+							fireEvent = false;
+						}
+					}
+
+					if (oldDelta < 0 && newDelta < 0) {
+
+						if (oldDelta > newDelta) {
+							fireEvent = true;
+						} else {
+							fireEvent = false;
+						}
+					}
+
+				} else {
+					fireEvent = true;
+				}           
+
+				oldDelta = newDelta;
+
+				if (fireEvent === true) {
+					myHandleWheel(event);
+				}
+			}
+
+			app[subscriber](eventName, mouseWheel);
+
+			NXJSScroll.isInited = true;
+
+		} catch(e) {}
+	};
+
+	$(document).ready(function(){
+		NXJSScroll();
+	});
+
+	nxg.ownEvents.on('flash_started', function() {
+		if (!NXJSScroll.isInited) {
+			NXJSScroll();
+		}
+	});
+
+</script>
+
+	<script>			 
+		
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-38623438-1', { name : 'tracker1' });
+	ga('tracker1.send', 'pageview');
+
+			ga('create', 'UA-74588006-1', { name : 'tracker2', userId : '153926310' });
+		ga('tracker2.send', 'pageview');
+
+		ga(function(){
+
+			//var requestUrl = 'https://heroes-vk.nextersglobal.com/api/clientStat/?';
+			var requestUrl = 'http://localhost/?';
+
+			requestUrl += 'networkIdent=vkontakte';
+			requestUrl += '&applicationId=5327745';
+			requestUrl += '&type=.client.gaSetClientId';
+			requestUrl += '&info[clientId]=' + ga.getByName('tracker2').get('clientId');
+			requestUrl += '&userId=153926310';
+
+			var img = new Image();
+			img.src = requestUrl;
+		});
+	
+</script>
+
+
+	<script type="text/javascript">
+		(function (d, w, c) {
+
+			(w[c] = w[c] || []).push(function() {
+				try {
+					w.yaCounter = new Ya.Metrika({
+						id: 41407004,
+						clickmap: true,
+						trackLinks: true,
+						accurateTrackBounce: true,
+						ut:"noindex",
+						params : {
+						    pUsers : false						}
+					});
+				} catch(e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+			    s = d.createElement("script"),
+			    f = function () { n.parentNode.insertBefore(s, n); };
+
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+			if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else { 
+				f(); 
+			}
+
+		})(document, window, "yandex_metrika_callbacks");
+	</script>
+
+
+	
+	
+
+
+</body></html>
