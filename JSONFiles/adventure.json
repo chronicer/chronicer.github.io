@@ -1,0 +1,614 @@
+{
+  "date": 1619902615.203374,
+  "results": [
+    {
+      "ident": "body",
+      "result": {
+        "response": {
+          "id": 1645850,
+          "adventureId": 1,
+          "mapIdent": "adv_strongford_2pl_easy",
+          "status": "1",
+          "users": {
+            "761790": {
+              "id": "761790",
+              "buffs": [],
+              "currentNode": 1,
+              "turnsLeft": 5,
+              "points": 0,
+              "rewardsCollected": [],
+              "left": false,
+              "lastTeam": [
+                {
+                  "id": 46,
+                  "level": 114,
+                  "color": 10,
+                  "star": 5,
+                  "power": 28482,
+                  "type": "hero"
+                },
+                {
+                  "id": 33,
+                  "level": 114,
+                  "color": 11,
+                  "star": 6,
+                  "power": 41864,
+                  "type": "hero"
+                },
+                {
+                  "id": 40,
+                  "level": 105,
+                  "color": 10,
+                  "star": 5,
+                  "power": 28150,
+                  "type": "hero"
+                },
+                {
+                  "id": 34,
+                  "level": 114,
+                  "color": 12,
+                  "star": 6,
+                  "power": 42248,
+                  "type": "hero"
+                },
+                {
+                  "id": 4,
+                  "level": 114,
+                  "color": 12,
+                  "star": 5,
+                  "power": 43706,
+                  "type": "hero"
+                },
+                {
+                  "id": 6002,
+                  "level": 71,
+                  "color": 2,
+                  "star": 2,
+                  "power": 15585,
+                  "type": "pet"
+                }
+              ],
+              "user": {
+                "id": "761790",
+                "name": "Руслан",
+                "lastLoginTime": "1619902575",
+                "serverId": "5",
+                "level": "114",
+                "clanId": "2770",
+                "clanRole": "255",
+                "avatarId": "660",
+                "isChatModerator": false,
+                "frameId": null,
+                "leagueId": null,
+                "allowPm": "all",
+                "clanTitle": "ПИРАРАТЫ",
+                "clanIcon": {
+                  "flagColor1": 7,
+                  "flagColor2": 0,
+                  "flagShape": 5,
+                  "iconColor": 7,
+                  "iconShape": 5
+                }
+              }
+            }
+          },
+          "nodes": [
+            {
+              "id": 1,
+              "playerBuffPower": 0,
+              "type": "TYPE_START",
+              "lastBoss": false,
+              "state": "empty"
+            },
+            {
+              "buffs": [],
+              "id": 5,
+              "playerBuffPower": 0,
+              "type": "TYPE_COMBAT",
+              "team": [
+                {
+                  "1": {
+                    "id": 15,
+                    "star": 3,
+                    "color": 3,
+                    "level": 30,
+                    "power": 3715,
+                    "state": {
+                      "hp": 11450,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 11450
+                    },
+                    "type": "hero"
+                  },
+                  "2": {
+                    "id": 42,
+                    "star": 3,
+                    "color": 3,
+                    "level": 30,
+                    "power": 3734,
+                    "state": {
+                      "hp": 18092,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 18092
+                    },
+                    "type": "hero"
+                  },
+                  "3": {
+                    "id": 19,
+                    "star": 3,
+                    "color": 3,
+                    "level": 30,
+                    "power": 3707,
+                    "state": {
+                      "hp": 11925,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 11925
+                    },
+                    "type": "hero"
+                  },
+                  "4": {
+                    "id": 23,
+                    "star": 3,
+                    "color": 3,
+                    "level": 30,
+                    "power": 3699,
+                    "state": {
+                      "hp": 10667,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 10667
+                    },
+                    "type": "hero"
+                  },
+                  "5": {
+                    "id": 7,
+                    "star": 3,
+                    "color": 3,
+                    "level": 30,
+                    "power": 3680,
+                    "state": {
+                      "hp": 9652,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 9652
+                    },
+                    "type": "hero"
+                  }
+                }
+              ],
+              "lastBoss": false,
+              "state": "occupied",
+              "pointsFarmed": 0
+            },
+            {
+              "buffs": [
+                {
+                  "value": 10,
+                  "id": 33
+                }
+              ],
+              "id": 6,
+              "playerBuffPower": 0,
+              "type": "TYPE_COMBAT",
+              "team": [
+                {
+                  "1": {
+                    "id": 7002,
+                    "star": 3,
+                    "color": 3,
+                    "level": 35,
+                    "power": 4380,
+                    "state": {
+                      "hp": 191300,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 191300
+                    },
+                    "type": "hero"
+                  }
+                }
+              ],
+              "lastBoss": true,
+              "featuredHero": 7002,
+              "state": "occupied",
+              "pointsFarmed": 0
+            },
+            {
+              "buffs": [],
+              "id": 7,
+              "playerBuffPower": 0,
+              "type": "TYPE_COMBAT",
+              "team": [
+                {
+                  "1": {
+                    "id": 17,
+                    "star": 3,
+                    "color": 3,
+                    "level": 30,
+                    "power": 3702,
+                    "state": {
+                      "hp": 10765,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 10765
+                    },
+                    "type": "hero"
+                  },
+                  "2": {
+                    "id": 45,
+                    "star": 3,
+                    "color": 3,
+                    "level": 30,
+                    "power": 3707,
+                    "state": {
+                      "hp": 12395,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 12395
+                    },
+                    "type": "hero"
+                  },
+                  "3": {
+                    "id": 10,
+                    "star": 3,
+                    "color": 3,
+                    "level": 30,
+                    "power": 3776,
+                    "state": {
+                      "hp": 10670,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 10670
+                    },
+                    "type": "hero"
+                  },
+                  "4": {
+                    "id": 25,
+                    "star": 3,
+                    "color": 3,
+                    "level": 30,
+                    "power": 3725,
+                    "state": {
+                      "hp": 11330,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 11330
+                    },
+                    "type": "hero"
+                  },
+                  "5": {
+                    "id": 42,
+                    "star": 3,
+                    "color": 3,
+                    "level": 30,
+                    "power": 3734,
+                    "state": {
+                      "hp": 18092,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 18092
+                    },
+                    "type": "hero"
+                  }
+                }
+              ],
+              "lastBoss": false,
+              "state": "occupied",
+              "pointsFarmed": 0
+            },
+            {
+              "buffs": [],
+              "id": 3,
+              "playerBuffPower": 0,
+              "type": "TYPE_COMBAT",
+              "team": [
+                {
+                  "1": {
+                    "id": 37,
+                    "star": 3,
+                    "color": 2,
+                    "level": 25,
+                    "power": 2952,
+                    "state": {
+                      "hp": 13345,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 13345
+                    },
+                    "type": "hero"
+                  },
+                  "2": {
+                    "id": 32,
+                    "star": 3,
+                    "color": 2,
+                    "level": 25,
+                    "power": 2980,
+                    "state": {
+                      "hp": 7632,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 7632
+                    },
+                    "type": "hero"
+                  },
+                  "3": {
+                    "id": 41,
+                    "star": 3,
+                    "color": 2,
+                    "level": 25,
+                    "power": 2982,
+                    "state": {
+                      "hp": 8580,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 8580
+                    },
+                    "type": "hero"
+                  },
+                  "4": {
+                    "id": 49,
+                    "star": 3,
+                    "color": 2,
+                    "level": 25,
+                    "power": 2969,
+                    "state": {
+                      "hp": 8030,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 8030
+                    },
+                    "type": "hero"
+                  },
+                  "5": {
+                    "id": 39,
+                    "star": 3,
+                    "color": 2,
+                    "level": 25,
+                    "power": 2963,
+                    "state": {
+                      "hp": 15630,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 15630
+                    },
+                    "type": "hero"
+                  }
+                }
+              ],
+              "lastBoss": false,
+              "state": "occupied",
+              "pointsFarmed": 0
+            },
+            {
+              "buffs": [
+                {
+                  "value": 30,
+                  "id": 31,
+                  "owner": null
+                },
+                {
+                  "value": 30,
+                  "id": 32,
+                  "owner": null
+                },
+                {
+                  "value": 30,
+                  "id": 8,
+                  "owner": null
+                }
+              ],
+              "id": 2,
+              "playerBuffPower": 100,
+              "type": "TYPE_PLAYERBUFF",
+              "lastBoss": false,
+              "state": "empty"
+            },
+            {
+              "buffs": [],
+              "id": 4,
+              "playerBuffPower": 0,
+              "type": "TYPE_COMBAT",
+              "team": [
+                {
+                  "1": {
+                    "id": 10,
+                    "star": 3,
+                    "color": 2,
+                    "level": 25,
+                    "power": 3017,
+                    "state": {
+                      "hp": 8390,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 8390
+                    },
+                    "type": "hero"
+                  },
+                  "2": {
+                    "id": 23,
+                    "star": 3,
+                    "color": 2,
+                    "level": 25,
+                    "power": 2966,
+                    "state": {
+                      "hp": 8647,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 8647
+                    },
+                    "type": "hero"
+                  },
+                  "3": {
+                    "id": 13,
+                    "star": 3,
+                    "color": 2,
+                    "level": 25,
+                    "power": 2980,
+                    "state": {
+                      "hp": 8120,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 8120
+                    },
+                    "type": "hero"
+                  },
+                  "4": {
+                    "id": 11,
+                    "star": 3,
+                    "color": 2,
+                    "level": 25,
+                    "power": 2952,
+                    "state": {
+                      "hp": 12350,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 12350
+                    },
+                    "type": "hero"
+                  },
+                  "5": {
+                    "id": 7,
+                    "star": 3,
+                    "color": 2,
+                    "level": 25,
+                    "power": 2945,
+                    "state": {
+                      "hp": 7832,
+                      "energy": 0,
+                      "isDead": false,
+                      "maxHp": 7832
+                    },
+                    "type": "hero"
+                  }
+                }
+              ],
+              "lastBoss": false,
+              "state": "occupied",
+              "pointsFarmed": 0
+            }
+          ],
+          "paths": [
+            {
+              "to_id": 6,
+              "from_id": 5
+            },
+            {
+              "to_id": 6,
+              "from_id": 7
+            },
+            {
+              "to_id": 2,
+              "from_id": 1
+            },
+            {
+              "to_id": 5,
+              "from_id": 3
+            },
+            {
+              "to_id": 7,
+              "from_id": 4
+            },
+            {
+              "to_id": 3,
+              "from_id": 2
+            },
+            {
+              "to_id": 4,
+              "from_id": 2
+            }
+          ],
+          "buffs": [
+            {
+              "to_id": 6,
+              "buffPower": 100,
+              "buffs": [
+                {
+                  "value": 50,
+                  "id": 11
+                }
+              ],
+              "from_id": 3
+            },
+            {
+              "to_id": 6,
+              "buffPower": 100,
+              "buffs": [
+                {
+                  "value": 100,
+                  "id": 30
+                }
+              ],
+              "from_id": 4
+            }
+          ],
+          "globalBuffs": [
+            {
+              "value": 100,
+              "id": 25
+            },
+            {
+              "value": 100,
+              "id": 18
+            },
+            {
+              "value": 100,
+              "id": 58
+            }
+          ],
+          "globalBuffsReset": 1619920800,
+          "assetIdent": "adventure_map_strongford",
+          "battleground": 37,
+          "rewards": {
+            "boss": {
+              "lootBox": {
+                "adventure_d1_easy_chest_boss_1": 1,
+                "adventure_d1_easy_chest_boss_2": 1
+              }
+            },
+            "points": {
+              "20": {
+                "lootBox": {
+                  "adventure_d1_easy_chest_1": 1
+                }
+              },
+              "60": {
+                "lootBox": {
+                  "adventure_d1_easy_chest_2": 1
+                }
+              },
+              "100": {
+                "lootBox": {
+                  "adventure_d1_easy_chest_3": 1
+                }
+              }
+            }
+          },
+          "log": [
+            {
+              "ts": 1619902615,
+              "userId": "761790",
+              "type": "join",
+              "data": []
+            }
+          ]
+        },
+        "quests": [
+          {
+            "id": 10043,
+            "state": 2,
+            "progress": 1,
+            "reward": {
+              "consumable": {
+                "90": "1"
+              }
+            },
+            "createTime": 1619902566
+          }
+        ]
+      }
+    }
+  ]
+}

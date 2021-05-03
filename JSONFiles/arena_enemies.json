@@ -1,0 +1,227 @@
+{
+	"date": 1619546091.418172,
+	"results": [{
+		"ident": "group_0_body",
+		"result": {
+			"response": [true, true, true]
+		}
+	}, {
+		"ident": "group_1_body",
+		"result": {
+			"response": [{
+				"userId": "794534",
+				"place": "871",
+				"heroes": [{
+					"id": 13,
+					"level": 129,
+					"color": 12,
+					"star": 6
+				}, {
+					"id": 3,
+					"level": 129,
+					"color": 13,
+					"star": 6
+				}, {
+					"id": 41,
+					"level": 129,
+					"color": 14,
+					"star": 6
+				}, {
+					"id": 25,
+					"level": 129,
+					"color": 14,
+					"star": 6
+				}, {
+					"id": 2,
+					"level": 129,
+					"color": 12,
+					"star": 6
+				}, {
+					"id": 6000,
+					"level": 90,
+					"color": 6,
+					"star": 3,
+					"type": "pet"
+				}],
+				"power": "323748",
+				"user": {
+					"id": "794534",
+					"name": "\u0441\u0430\u0448\u0430",
+					"lastLoginTime": "1616915829",
+					"serverId": "5",
+					"level": "129",
+					"clanId": null,
+					"clanRole": null,
+					"avatarId": "79",
+					"isChatModerator": false,
+					"frameId": 16,
+					"leagueId": null,
+					"allowPm": "all",
+					"accountId": "2179828875502602800"
+				}
+			}, {
+				"userId": "761256",
+				"place": "918",
+				"heroes": [{
+					"id": 7,
+					"level": 130,
+					"color": 12,
+					"star": 6
+				}, {
+					"id": 33,
+					"level": 130,
+					"color": 10,
+					"star": 6
+				}, {
+					"id": 43,
+					"level": 130,
+					"color": 14,
+					"star": 6
+				}, {
+					"id": 12,
+					"level": 130,
+					"color": 11,
+					"star": 4
+				}, {
+					"id": 4,
+					"level": 130,
+					"color": 13,
+					"star": 6
+				}, {
+					"id": 6001,
+					"level": 104,
+					"color": 7,
+					"star": 3,
+					"type": "pet"
+				}],
+				"power": "374665",
+				"user": {
+					"id": "761256",
+					"name": "Sabre",
+					"lastLoginTime": "1603452377",
+					"serverId": "5",
+					"level": "130",
+					"clanId": null,
+					"clanRole": null,
+					"avatarId": "230",
+					"isChatModerator": false,
+					"frameId": 0,
+					"leagueId": null,
+					"allowPm": "all"
+				}
+			}, 
+			{
+				"userId": "761256",
+				"place": "918",
+				"heroes": [{
+					"id": 7,
+					"level": 130,
+					"color": 12,
+					"star": 6
+				}, {
+					"id": 33,
+					"level": 130,
+					"color": 10,
+					"star": 6
+				}, {
+					"id": 43,
+					"level": 130,
+					"color": 14,
+					"star": 6
+				}, {
+					"id": 12,
+					"level": 130,
+					"color": 11,
+					"star": 4
+				}, {
+					"id": 4,
+					"level": 130,
+					"color": 13,
+					"star": 6
+				}, {
+					"id": 6001,
+					"level": 104,
+					"color": 7,
+					"star": 3,
+					"type": "pet"
+				}],
+				"power": "374665",
+				"user": {
+					"id": "761256",
+					"name": "Sabre",
+					"lastLoginTime": "1603452377",
+					"serverId": "5",
+					"level": "130",
+					"clanId": null,
+					"clanRole": null,
+					"avatarId": "230",
+					"isChatModerator": false,
+					"frameId": 0,
+					"leagueId": null,
+					"allowPm": "all"
+				}
+			},
+			
+			
+			{
+				"userId": "833453",
+				"place": "956",
+				"heroes": [{
+					"id": 7,
+					"level": 74,
+					"color": 10,
+					"star": 5
+				}, {
+					"id": 28,
+					"level": 74,
+					"color": 10,
+					"star": 5
+				}, {
+					"id": 2,
+					"level": 74,
+					"color": 9,
+					"star": 5
+				}, {
+					"id": 4,
+					"level": 73,
+					"color": 9,
+					"star": 4
+				}, {
+					"id": 42,
+					"level": 74,
+					"color": 9,
+					"star": 4
+				}, {
+					"id": 6000,
+					"level": 63,
+					"color": 2,
+					"star": 2,
+					"type": "pet"
+				}],
+				"power": "120830",
+				"user": {
+					"id": "833453",
+					"name": "\u0412\u0438\u0442\u0430\u043b\u0438\u0439",
+					"lastLoginTime": "1619448829",
+					"serverId": "5",
+					"level": "109",
+					"clanId": "2383",
+					"clanRole": "2",
+					"avatarId": "683",
+					"isChatModerator": false,
+					"frameId": 1,
+					"leagueId": 1,
+					"allowPm": "all",
+					"clanTitle": "\u041d\u0435 \u0432\u043b\u0435\u0437\u0430\u0439.\u0443\u0431\u044c\u0451\u0442",
+					"clanIcon": {
+						"flagColor1": 5,
+						"flagColor2": 6,
+						"flagShape": 2,
+						"iconColor": 2,
+						"iconShape": 5
+					}
+				}
+			}]
+		}
+	}]
+}
