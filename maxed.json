@@ -1,0 +1,4472 @@
+{
+          "hero": {
+            "1": {
+              "id": 1,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "2": 130,
+                "3": 130,
+                "4": 130,
+                "5": 130
+              },
+              "power": 131611,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "1": 60,
+                "54": 60,
+                "95": 60,
+                "154": 60
+              },
+              "currentSkin": 154,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                4,
+                1
+              ],
+              "agility": 3093,
+              "hp": 309894,
+              "intelligence": 3644,
+              "physicalAttack": 1524,
+              "strength": 12580,
+              "armor": 12720,
+              "dodge": 9795,
+              "magicPenetration": 12490,
+              "magicPower": 24836,
+              "magicResist": 1580,
+              "skin": 154,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "2": {
+              "id": 2,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "270": 130,
+                "271": 130,
+                "272": 130,
+                "273": 130
+              },
+              "power": 131627,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "2": 60,
+                "32": 60,
+                "69": 60,
+                "134": 60
+              },
+              "currentSkin": 134,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                4,
+                2
+              ],
+              "agility": 3301,
+              "hp": 274814,
+              "intelligence": 2776,
+              "physicalAttack": 27876,
+              "strength": 13115,
+              "armor": 34125,
+              "lifesteal": 45,
+              "magicResist": 16156,
+              "skin": 134,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "3": {
+              "id": 3,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "260": 130,
+                "261": 130,
+                "262": 130,
+                "263": 130
+              },
+              "power": 125898,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "3": 60,
+                "60": 60,
+                "127": 60
+              },
+              "currentSkin": 127,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                6,
+                1
+              ],
+              "agility": 13177,
+              "hp": 126477,
+              "intelligence": 2458,
+              "physicalAttack": 33657,
+              "strength": 2980,
+              "armor": 8790,
+              "armorPenetration": 36595,
+              "magicResist": 4079,
+              "skin": 127,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "4": {
+              "id": 4,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "255": 130,
+                "256": 130,
+                "257": 130,
+                "258": 130
+              },
+              "power": 131602,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "4": 60,
+                "35": 60,
+                "92": 60,
+                "161": 60
+              },
+              "currentSkin": 92,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                4,
+                5,
+                2
+              ],
+              "agility": 3065,
+              "hp": 176660,
+              "intelligence": 3402,
+              "physicalAttack": 2800,
+              "strength": 13019,
+              "armor": 31809,
+              "magicPower": 43111,
+              "magicResist": 22425,
+              "skin": 92,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "5": {
+              "id": 5,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "340": 130,
+                "341": 130,
+                "342": 130,
+                "343": 130
+              },
+              "power": 131091,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "5": 60,
+                "40": 60,
+                "109": 60,
+                "151": 60
+              },
+              "currentSkin": 40,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                2,
+                14
+              ],
+              "agility": 2879,
+              "hp": 234823,
+              "intelligence": 13499,
+              "physicalAttack": 50,
+              "strength": 2884,
+              "magicPenetration": 34096,
+              "magicPower": 48471,
+              "magicResist": 13297,
+              "skin": 40,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "6": {
+              "id": 6,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "330": 130,
+                "331": 130,
+                "332": 130,
+                "333": 130
+              },
+              "power": 131663,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "6": 60,
+                "63": 60,
+                "116": 60,
+                "186": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                8,
+                2,
+                12
+              ],
+              "agility": 2942,
+              "hp": 217283,
+              "intelligence": 13433,
+              "physicalAttack": 106,
+              "strength": 2952,
+              "armor": 11614,
+              "magicPenetration": 10650,
+              "magicPower": 62341,
+              "magicResist": 13717,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "7": {
+              "id": 7,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "32": 130,
+                "33": 130,
+                "34": 130,
+                "35": 130
+              },
+              "power": 136980,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "7": 60,
+                "31": 60,
+                "70": 60,
+                "128": 60,
+                "210": 60
+              },
+              "currentSkin": 128,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                9,
+                5,
+                1,
+                14
+              ],
+              "agility": 2965,
+              "hp": 324532,
+              "intelligence": 13630,
+              "physicalAttack": 78,
+              "strength": 2986,
+              "armor": 20627,
+              "magicPower": 60797,
+              "magicResist": 15451,
+              "skin": 128,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "8": {
+              "id": 8,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "285": 130,
+                "286": 130,
+                "287": 130,
+                "288": 130
+              },
+              "power": 132492,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "8": 60,
+                "64": 60,
+                "166": 60,
+                "206": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                6,
+                1
+              ],
+              "agility": 13176,
+              "hp": 315630,
+              "intelligence": 2478,
+              "physicalAttack": 24748,
+              "strength": 3263,
+              "armor": 535,
+              "armorPenetration": 11710,
+              "magicResist": 3276,
+              "physicalCritChance": 11088,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "9": {
+              "id": 9,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "335": 130,
+                "336": 130,
+                "337": 130,
+                "338": 130
+              },
+              "power": 132091,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "9": 60,
+                "41": 60,
+                "163": 60,
+                "189": 60
+              },
+              "currentSkin": 163,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                2
+              ],
+              "agility": 3068,
+              "hp": 90234,
+              "intelligence": 14534,
+              "physicalAttack": 50,
+              "strength": 3068,
+              "armor": 10315,
+              "dodge": 10194,
+              "magicPower": 46913,
+              "magicResist": 10657,
+              "skin": 163,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "10": {
+              "id": 10,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "47": 130,
+                "48": 130,
+                "49": 130,
+                "50": 130
+              },
+              "power": 131557,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "10": 60,
+                "66": 60,
+                "106": 60,
+                "176": 60
+              },
+              "currentSkin": 176,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                8,
+                2
+              ],
+              "agility": 2882,
+              "hp": 284087,
+              "intelligence": 13405,
+              "physicalAttack": 8066,
+              "strength": 2887,
+              "magicPenetration": 20220,
+              "magicPower": 54531,
+              "magicResist": 5580,
+              "skin": 176,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "11": {
+              "id": 11,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "290": 130,
+                "291": 130,
+                "292": 130,
+                "293": 130
+              },
+              "power": 131361,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "11": 60,
+                "36": 60,
+                "86": 60,
+                "170": 60
+              },
+              "currentSkin": 86,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                4,
+                8,
+                2
+              ],
+              "agility": 3032,
+              "hp": 199012,
+              "intelligence": 2777,
+              "physicalAttack": 33235,
+              "strength": 13155,
+              "armor": 28362,
+              "magicResist": 23486,
+              "skin": 86,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "12": {
+              "id": 12,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "346": 130,
+                "347": 130,
+                "348": 130,
+                "349": 130
+              },
+              "power": 137270,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "12": 60,
+                "37": 60,
+                "87": 60,
+                "157": 60,
+                "207": 60
+              },
+              "currentSkin": 157,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                10,
+                8,
+                1
+              ],
+              "agility": 12772,
+              "hp": 270607,
+              "intelligence": 3432,
+              "physicalAttack": 17632,
+              "strength": 2887,
+              "armor": 16750,
+              "lifesteal": 80,
+              "magicPenetration": 10650,
+              "magicPower": 38872,
+              "magicResist": 10619,
+              "skin": 157,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "13": {
+              "id": 13,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "62": 130,
+                "63": 130,
+                "64": 130,
+                "65": 130
+              },
+              "power": 131296,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "13": 60,
+                "38": 60,
+                "148": 60,
+                "199": 60
+              },
+              "currentSkin": 199,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                2
+              ],
+              "agility": 2885,
+              "hp": 148868,
+              "intelligence": 13156,
+              "physicalAttack": 50,
+              "strength": 3020,
+              "armor": 13190,
+              "magicPenetration": 21520,
+              "magicPower": 49209,
+              "magicResist": 22057,
+              "skin": 199,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "14": {
+              "id": 14,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "275": 130,
+                "276": 130,
+                "277": 130,
+                "278": 130
+              },
+              "power": 132057,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "14": 60,
+                "42": 60,
+                "140": 60,
+                "196": 60
+              },
+              "currentSkin": 42,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                6,
+                1,
+                13
+              ],
+              "agility": 13291,
+              "hp": 132085,
+              "intelligence": 2748,
+              "physicalAttack": 31401,
+              "strength": 2889,
+              "armor": 9055,
+              "armorPenetration": 33440,
+              "magicResist": 3260,
+              "physicalCritChance": 4757,
+              "skin": 42,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "15": {
+              "id": 15,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "72": 130,
+                "73": 130,
+                "74": 130,
+                "75": 130
+              },
+              "power": 131432,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "15": 60,
+                "34": 60,
+                "71": 60,
+                "141": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                6,
+                1,
+                13
+              ],
+              "agility": 13727,
+              "hp": 133982,
+              "intelligence": 2931,
+              "physicalAttack": 36931,
+              "strength": 3209,
+              "armor": 5015,
+              "armorPenetration": 31170,
+              "magicResist": 11799,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "16": {
+              "id": 16,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "301": 130,
+                "302": 130,
+                "303": 130,
+                "350": 130
+              },
+              "power": 132676,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "16": 60,
+                "58": 60,
+                "177": 60,
+                "192": 60
+              },
+              "currentSkin": 177,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                6,
+                2
+              ],
+              "agility": 12538,
+              "hp": 149272,
+              "intelligence": 3196,
+              "physicalAttack": 23477,
+              "strength": 3207,
+              "armor": 12145,
+              "armorPenetration": 22660,
+              "dodge": 10177,
+              "magicResist": 2776,
+              "skin": 177,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "17": {
+              "id": 17,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "82": 130,
+                "83": 130,
+                "84": 130,
+                "85": 130
+              },
+              "power": 131503,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "17": 60,
+                "43": 60,
+                "149": 60,
+                "197": 60
+              },
+              "currentSkin": 43,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                5,
+                2
+              ],
+              "agility": 2913,
+              "hp": 264298,
+              "intelligence": 13443,
+              "physicalAttack": 50,
+              "strength": 3048,
+              "magicPenetration": 22460,
+              "magicPower": 56334,
+              "magicResist": 14167,
+              "skin": 43,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "18": {
+              "id": 18,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "87": 130,
+                "88": 130,
+                "89": 130,
+                "90": 130
+              },
+              "power": 137058,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "18": 60,
+                "39": 60,
+                "76": 60,
+                "131": 60,
+                "211": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                5,
+                2
+              ],
+              "agility": 2954,
+              "hp": 308856,
+              "intelligence": 13656,
+              "physicalAttack": 106,
+              "strength": 3089,
+              "armor": 23424,
+              "magicPower": 59587,
+              "magicResist": 14896,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "19": {
+              "id": 19,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "92": 130,
+                "93": 130,
+                "94": 130,
+                "95": 130
+              },
+              "power": 131573,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "19": 60,
+                "56": 60,
+                "96": 60,
+                "162": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                6,
+                8,
+                1
+              ],
+              "agility": 12902,
+              "hp": 144557,
+              "intelligence": 2877,
+              "physicalAttack": 29715,
+              "strength": 3002,
+              "armorPenetration": 33390,
+              "dodge": 7226,
+              "magicResist": 4601,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "20": {
+              "id": 20,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "97": 130,
+                "98": 130,
+                "99": 130,
+                "100": 130
+              },
+              "power": 132235,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "20": 60,
+                "33": 60,
+                "80": 60,
+                "167": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                6,
+                1
+              ],
+              "agility": 13340,
+              "hp": 103740,
+              "intelligence": 2967,
+              "physicalAttack": 30050,
+              "strength": 2962,
+              "armor": 2550,
+              "armorPenetration": 33390,
+              "magicResist": 1291,
+              "physicalCritChance": 8054,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "21": {
+              "id": 21,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "296": 130,
+                "297": 130,
+                "298": 130,
+                "344": 130
+              },
+              "power": 131797,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "21": 60,
+                "55": 60,
+                "113": 60,
+                "193": 60
+              },
+              "currentSkin": 193,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                9,
+                5,
+                2
+              ],
+              "agility": 2814,
+              "hp": 262791,
+              "intelligence": 12803,
+              "physicalAttack": 8239,
+              "strength": 3253,
+              "armor": 33295,
+              "magicPower": 36109,
+              "magicResist": 14948,
+              "skin": 193,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "22": {
+              "id": 22,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "110": 130,
+                "111": 130,
+                "112": 130,
+                "113": 130
+              },
+              "power": 131400,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "22": 60,
+                "65": 60,
+                "110": 60,
+                "132": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                5,
+                1
+              ],
+              "agility": 2736,
+              "hp": 221098,
+              "intelligence": 13879,
+              "physicalAttack": 50,
+              "strength": 2741,
+              "magicPenetration": 35360,
+              "magicPower": 46174,
+              "magicResist": 15805,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "23": {
+              "id": 23,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "280": 130,
+                "281": 130,
+                "282": 130,
+                "283": 130
+              },
+              "power": 131532,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "23": 60,
+                "59": 60,
+                "152": 60,
+                "190": 60
+              },
+              "currentSkin": 190,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                8,
+                1
+              ],
+              "agility": 2655,
+              "hp": 217946,
+              "intelligence": 13833,
+              "physicalAttack": 50,
+              "strength": 2920,
+              "armor": 21290,
+              "magicPower": 49415,
+              "magicResist": 26926,
+              "skin": 190,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "24": {
+              "id": 24,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "120": 130,
+                "121": 130,
+                "122": 130,
+                "123": 130
+              },
+              "power": 132324,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "24": 60,
+                "75": 60,
+                "93": 60,
+                "145": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                4,
+                8,
+                2
+              ],
+              "agility": 3058,
+              "armor": 32961,
+              "hp": 283188,
+              "intelligence": 2533,
+              "magicResist": 17415,
+              "physicalAttack": 27032,
+              "strength": 13862,
+              "lifesteal": 55,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "25": {
+              "id": 25,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "125": 130,
+                "126": 130,
+                "127": 130,
+                "128": 130
+              },
+              "power": 132100,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "25": 60,
+                "57": 60,
+                "77": 60,
+                "146": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                10,
+                2
+              ],
+              "agility": 13491,
+              "hp": 223531,
+              "intelligence": 2552,
+              "physicalAttack": 28877,
+              "strength": 3342,
+              "armor": 740,
+              "armorPenetration": 24430,
+              "magicResist": 1675,
+              "physicalCritChance": 7848,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "26": {
+              "id": 26,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "130": 130,
+                "131": 130,
+                "132": 130,
+                "133": 130
+              },
+              "power": 131667,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "26": 60,
+                "61": 60,
+                "117": 60,
+                "158": 60
+              },
+              "currentSkin": 158,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                4,
+                8,
+                1
+              ],
+              "agility": 2625,
+              "hp": 179147,
+              "intelligence": 3010,
+              "physicalAttack": 4687,
+              "strength": 13008,
+              "armor": 31239,
+              "magicPenetration": 22700,
+              "magicPower": 41516,
+              "magicResist": 3579,
+              "skin": 158,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "27": {
+              "id": 27,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "135": 130,
+                "136": 130,
+                "137": 130,
+                "138": 130
+              },
+              "power": 131891,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "27": 60,
+                "67": 60,
+                "119": 60,
+                "173": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                4,
+                8,
+                2
+              ],
+              "agility": 3301,
+              "hp": 287827,
+              "intelligence": 3036,
+              "physicalAttack": 25810,
+              "strength": 13084,
+              "armor": 34767,
+              "magicResist": 17882,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "28": {
+              "id": 28,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "265": 130,
+                "266": 130,
+                "267": 130,
+                "268": 130
+              },
+              "power": 132052,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "28": 60,
+                "62": 60,
+                "97": 60,
+                "171": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                10,
+                1
+              ],
+              "agility": 12825,
+              "hp": 176976,
+              "intelligence": 3045,
+              "physicalAttack": 27511,
+              "strength": 3056,
+              "armor": 2870,
+              "armorPenetration": 21650,
+              "dodge": 9960,
+              "magicResist": 3851,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "29": {
+              "id": 29,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "145": 130,
+                "146": 130,
+                "147": 130,
+                "148": 130
+              },
+              "power": 131623,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "29": 60,
+                "72": 60,
+                "88": 60,
+                "147": 60
+              },
+              "currentSkin": 147,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                5,
+                9,
+                2
+              ],
+              "agility": 2885,
+              "hp": 371926,
+              "intelligence": 13862,
+              "physicalAttack": 106,
+              "strength": 3020,
+              "armor": 20079,
+              "magicPower": 50394,
+              "magicResist": 9887,
+              "skin": 147,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "30": {
+              "id": 30,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "150": 130,
+                "151": 130,
+                "152": 130,
+                "153": 130
+              },
+              "power": 131865,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "30": 60,
+                "68": 60,
+                "120": 60,
+                "172": 60
+              },
+              "currentSkin": 120,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                5,
+                2
+              ],
+              "agility": 2837,
+              "hp": 339530,
+              "intelligence": 14492,
+              "physicalAttack": 134,
+              "strength": 2842,
+              "armor": 10801,
+              "magicPower": 59812,
+              "magicResist": 11204,
+              "skin": 120,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "31": {
+              "id": 31,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "155": 130,
+                "156": 130,
+                "157": 130,
+                "158": 130
+              },
+              "power": 132131,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "44": 60,
+                "94": 60,
+                "133": 60,
+                "200": 60
+              },
+              "currentSkin": 200,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                5,
+                9,
+                2
+              ],
+              "agility": 2781,
+              "dodge": 7240,
+              "hp": 290979,
+              "intelligence": 14476,
+              "physicalAttack": 78,
+              "strength": 2916,
+              "armor": 12762,
+              "magicPower": 37829,
+              "magicResist": 10622,
+              "skin": 200,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "32": {
+              "id": 32,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "160": 130,
+                "161": 130,
+                "162": 130,
+                "163": 130
+              },
+              "power": 137115,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "45": 60,
+                "73": 60,
+                "81": 60,
+                "135": 60,
+                "212": 60
+              },
+              "currentSkin": 135,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                5,
+                2
+              ],
+              "agility": 2815,
+              "hp": 431561,
+              "intelligence": 14331,
+              "physicalAttack": 50,
+              "strength": 2810,
+              "armor": 8200,
+              "magicPower": 63097,
+              "magicResist": 13125,
+              "skin": 135,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "33": {
+              "id": 33,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "165": 130,
+                "166": 130,
+                "167": 130,
+                "168": 130
+              },
+              "power": 131640,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "46": 60,
+                "107": 60,
+                "122": 60,
+                "174": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                8,
+                2
+              ],
+              "agility": 2577,
+              "hp": 149247,
+              "intelligence": 13825,
+              "physicalAttack": 78,
+              "strength": 3232,
+              "armor": 11572,
+              "magicPenetration": 33706,
+              "magicPower": 50595,
+              "magicResist": 7560,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "34": {
+              "id": 34,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "170": 130,
+                "171": 130,
+                "172": 130,
+                "173": 130
+              },
+              "power": 132031,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "47": 60,
+                "108": 60,
+                "123": 60,
+                "175": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                1
+              ],
+              "agility": 3049,
+              "hp": 303760,
+              "intelligence": 14519,
+              "physicalAttack": 78,
+              "strength": 2784,
+              "armor": 20167,
+              "magicPower": 54282,
+              "magicResist": 10364,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "35": {
+              "id": 35,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "175": 130,
+                "176": 130,
+                "177": 130,
+                "178": 130
+              },
+              "power": 131334,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "48": 60,
+                "74": 60,
+                "79": 60,
+                "194": 60
+              },
+              "currentSkin": 79,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                8,
+                5,
+                2
+              ],
+              "agility": 2647,
+              "hp": 335513,
+              "intelligence": 3554,
+              "physicalAttack": 50,
+              "strength": 13207,
+              "armor": 16515,
+              "magicPower": 38602,
+              "magicResist": 30362,
+              "skin": 79,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "36": {
+              "id": 36,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "180": 130,
+                "181": 130,
+                "182": 130,
+                "183": 130
+              },
+              "power": 131480,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "49": 60,
+                "78": 60,
+                "84": 60,
+                "136": 60
+              },
+              "currentSkin": 136,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                9,
+                7,
+                1
+              ],
+              "agility": 2541,
+              "hp": 321631,
+              "intelligence": 14207,
+              "physicalAttack": 50,
+              "strength": 2936,
+              "armor": 6500,
+              "magicPower": 62733,
+              "magicResist": 16408,
+              "skin": 136,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "37": {
+              "id": 37,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "185": 130,
+                "186": 130,
+                "187": 130,
+                "188": 130
+              },
+              "power": 132234,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "50": 60,
+                "83": 60,
+                "111": 60,
+                "153": 60
+              },
+              "currentSkin": 83,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                6,
+                2
+              ],
+              "agility": 3395,
+              "hp": 132670,
+              "intelligence": 2710,
+              "physicalAttack": 22473,
+              "strength": 12845,
+              "armor": 3877,
+              "armorPenetration": 21855,
+              "magicResist": 12242,
+              "physicalCritChance": 10688,
+              "skin": 83,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "38": {
+              "id": 38,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "190": 130,
+                "191": 130,
+                "192": 130,
+                "193": 130
+              },
+              "power": 132319,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "51": 60,
+                "85": 60,
+                "114": 60,
+                "155": 60
+              },
+              "currentSkin": 85,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                10,
+                6,
+                2
+              ],
+              "agility": 13717,
+              "hp": 133098,
+              "intelligence": 2838,
+              "physicalAttack": 31324,
+              "strength": 2989,
+              "armor": 2320,
+              "armorPenetration": 22360,
+              "dodge": 9310,
+              "magicResist": 1835,
+              "skin": 85,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "39": {
+              "id": 39,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "195": 130,
+                "196": 130,
+                "197": 130,
+                "198": 130
+              },
+              "power": 137365,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "52": 60,
+                "82": 60,
+                "112": 60,
+                "156": 60,
+                "208": 60
+              },
+              "currentSkin": 52,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                4,
+                1
+              ],
+              "agility": 2750,
+              "hp": 501665,
+              "intelligence": 2620,
+              "physicalAttack": 18733,
+              "strength": 14055,
+              "armor": 35367,
+              "magicResist": 17441,
+              "skin": 52,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "40": {
+              "id": 40,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "200": 130,
+                "201": 130,
+                "202": 130,
+                "203": 130
+              },
+              "power": 131424,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "53": 60,
+                "89": 60,
+                "129": 60,
+                "168": 60
+              },
+              "currentSkin": 168,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                5,
+                9,
+                1
+              ],
+              "agility": 13071,
+              "hp": 202436,
+              "intelligence": 2805,
+              "physicalAttack": 33203,
+              "strength": 2976,
+              "armor": 10260,
+              "dodge": 8815,
+              "magicResist": 10303,
+              "skin": 168,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "41": {
+              "id": 41,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "205": 130,
+                "206": 130,
+                "207": 130,
+                "208": 130
+              },
+              "power": 126095,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "90": 60,
+                "118": 60,
+                "187": 60
+              },
+              "currentSkin": 118,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                10,
+                2
+              ],
+              "agility": 13552,
+              "hp": 131172,
+              "intelligence": 2572,
+              "physicalAttack": 26364,
+              "strength": 3145,
+              "armor": 8990,
+              "armorPenetration": 34600,
+              "magicResist": 13141,
+              "skin": 118,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "42": {
+              "id": 42,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "210": 130,
+                "211": 130,
+                "212": 130,
+                "213": 130
+              },
+              "power": 131688,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "91": 60,
+                "115": 60,
+                "121": 60,
+                "195": 60
+              },
+              "currentSkin": 195,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                4,
+                2
+              ],
+              "agility": 2442,
+              "hp": 371704,
+              "intelligence": 3476,
+              "physicalAttack": 50,
+              "strength": 13686,
+              "armor": 19680,
+              "magicPower": 50165,
+              "magicResist": 11645,
+              "skin": 195,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "43": {
+              "id": 43,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "215": 130,
+                "216": 130,
+                "217": 130,
+                "218": 130
+              },
+              "power": 131428,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "98": 60,
+                "130": 60,
+                "169": 60,
+                "201": 60
+              },
+              "currentSkin": 201,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                9,
+                8,
+                1
+              ],
+              "agility": 2447,
+              "hp": 175967,
+              "intelligence": 14289,
+              "physicalAttack": 50,
+              "strength": 2842,
+              "armor": 1200,
+              "magicPenetration": 22618,
+              "magicPower": 56654,
+              "magicResist": 20215,
+              "skin": 201,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "44": {
+              "id": 44,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "220": 130,
+                "221": 130,
+                "222": 130,
+                "223": 130
+              },
+              "power": 131128,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "99": 60,
+                "124": 60,
+                "142": 60,
+                "164": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                10,
+                6,
+                1,
+                15
+              ],
+              "agility": 13456,
+              "hp": 149442,
+              "intelligence": 2832,
+              "physicalAttack": 38773,
+              "strength": 3259,
+              "armor": 8660,
+              "armorPenetration": 34670,
+              "magicResist": 1494,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "45": {
+              "id": 45,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "225": 130,
+                "226": 130,
+                "227": 130,
+                "228": 130
+              },
+              "power": 126078,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "100": 60,
+                "150": 60,
+                "185": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                2
+              ],
+              "agility": 2578,
+              "hp": 133667,
+              "intelligence": 13614,
+              "physicalAttack": 50,
+              "strength": 3233,
+              "armor": 28955,
+              "magicPenetration": 25368,
+              "magicPower": 37219,
+              "magicResist": 3515,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "46": {
+              "id": 46,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "230": 130,
+                "231": 130,
+                "232": 130,
+                "233": 130
+              },
+              "power": 126155,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "101": 60,
+                "159": 60,
+                "178": 60
+              },
+              "currentSkin": 178,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                5,
+                9,
+                1
+              ],
+              "agility": 2122,
+              "hp": 411367,
+              "intelligence": 11739,
+              "physicalAttack": 50,
+              "strength": 5151,
+              "armor": 17910,
+              "magicPower": 39927,
+              "magicResist": 11877,
+              "skin": 178,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "47": {
+              "id": 47,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "235": 130,
+                "236": 130,
+                "237": 130,
+                "238": 130
+              },
+              "power": 125734,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "102": 60,
+                "160": 60,
+                "198": 60
+              },
+              "currentSkin": 198,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                5,
+                8,
+                2
+              ],
+              "agility": 2877,
+              "hp": 230151,
+              "intelligence": 2747,
+              "physicalAttack": 24982,
+              "strength": 14639,
+              "armor": 19715,
+              "armorPenetration": 23000,
+              "skin": 198,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "48": {
+              "id": 48,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "240": 130,
+                "241": 130,
+                "242": 130,
+                "243": 130
+              },
+              "power": 121525,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "103": 60,
+                "165": 60
+              },
+              "currentSkin": 165,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                5,
+                2
+              ],
+              "agility": 12839,
+              "hp": 201842,
+              "intelligence": 2888,
+              "physicalAttack": 26302,
+              "physicalCritChance": 7430,
+              "strength": 3169,
+              "armor": 1535,
+              "armorPenetration": 4850,
+              "magicResist": 9536,
+              "skin": 165,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "49": {
+              "id": 49,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "245": 130,
+                "246": 130,
+                "247": 130,
+                "248": 130
+              },
+              "power": 121453,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "104": 60,
+                "191": 60
+              },
+              "currentSkin": 191,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                10,
+                1
+              ],
+              "agility": 13466,
+              "hp": 159155,
+              "intelligence": 2790,
+              "physicalAttack": 23170,
+              "strength": 2987,
+              "armor": 1005,
+              "dodge": 4777,
+              "magicResist": 3175,
+              "physicalCritChance": 7835,
+              "skin": 191,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "50": {
+              "id": 50,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "250": 130,
+                "251": 130,
+                "252": 130,
+                "253": 130
+              },
+              "power": 115430,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "105": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                4,
+                2,
+                12
+              ],
+              "agility": 2752,
+              "hp": 175917,
+              "intelligence": 2622,
+              "physicalAttack": 17968,
+              "strength": 14431,
+              "armor": 23045,
+              "magicResist": 17525,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "51": {
+              "id": 51,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "305": 130,
+                "306": 130,
+                "307": 130,
+                "308": 130
+              },
+              "power": 115847,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "181": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                9,
+                5,
+                1,
+                12
+              ],
+              "agility": 2526,
+              "hp": 234805,
+              "intelligence": 14382,
+              "physicalAttack": 50,
+              "strength": 2921,
+              "armor": 8195,
+              "magicPower": 41465,
+              "magicResist": 12600,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "52": {
+              "id": 52,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "310": 130,
+                "311": 130,
+                "312": 130,
+                "313": 130
+              },
+              "power": 121580,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "188": 60,
+                "213": 60
+              },
+              "currentSkin": 213,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                5,
+                8,
+                2,
+                13,
+                15
+              ],
+              "agility": 13801,
+              "hp": 172957,
+              "intelligence": 2620,
+              "physicalAttack": 32350,
+              "strength": 3260,
+              "armor": 7160,
+              "armorPenetration": 15800,
+              "magicResist": 9315,
+              "skin": 213,
+              "favorPetId": 0,
+              "favorPower": 0
+            },
+            "53": {
+              "id": 53,
+              "xp": 3625195,
+              "level": 130,
+              "color": 18,
+              "slots": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "skills": {
+                "315": 130,
+                "316": 130,
+                "317": 130,
+                "318": 130
+              },
+              "power": 121284,
+              "star": 6,
+              "runes": [
+                43750,
+                43750,
+                43750,
+                43750,
+                43750
+              ],
+              "skins": {
+                "209": 60,
+                "216": 60
+              },
+              "currentSkin": 0,
+              "titanGiftLevel": 30,
+              "titanCoinsSpent": null,
+              "artifacts": [
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                },
+                {
+                  "level": 100,
+                  "star": 6
+                }
+              ],
+              "scale": 1,
+              "petId": 0,
+              "type": "hero",
+              "perks": [
+                7,
+                5,
+                2,
+                14
+              ],
+              "agility": 2444,
+              "hp": 130181,
+              "intelligence": 14703,
+              "physicalAttack": 50,
+              "strength": 2969,
+              "armor": 3410,
+              "magicPenetration": 22178,
+              "magicPower": 46720,
+              "magicResist": 9710,
+              "skin": 0,
+              "favorPetId": 0,
+              "favorPower": 0
+            }
+          },
+          "titan": {
+            "4000": {
+              "id": 4000,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4001": 120
+              },
+              "power": 185964,
+              "skins": {
+                "10001": 60,
+                "10013": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 11752763.21,
+              "physicalAttack": 778462.47,
+              "elementArmor": 139047,
+              "elementAttack": 422565,
+              "elementSpiritPower": 525000,
+              "element": "water",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            },
+            "4001": {
+              "id": 4001,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4003": 120
+              },
+              "power": 170314,
+              "skins": {
+                "10002": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 6858164.15,
+              "physicalAttack": 1145574.02,
+              "elementAttack": 422565,
+              "elementArmor": 89982,
+              "elementSpiritPower": 525000,
+              "element": "water",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            },
+            "4002": {
+              "id": 4002,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4005": 120
+              },
+              "power": 170313,
+              "skins": {
+                "10003": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 9816958.55,
+              "physicalAttack": 923647.74,
+              "elementAttack": 422565,
+              "elementArmor": 89982,
+              "elementSpiritPower": 525000,
+              "element": "water",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            },
+            "4003": {
+              "id": 4003,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4007": 120,
+                "4008": 120
+              },
+              "power": 170314,
+              "skins": {
+                "10004": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 10466148.379999999,
+              "physicalAttack": 874974.48,
+              "elementAttack": 422565,
+              "elementArmor": 89982,
+              "elementSpiritPower": 525000,
+              "element": "water",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            },
+            "4010": {
+              "id": 4010,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4010": 120
+              },
+              "power": 186000,
+              "skins": {
+                "10005": 60,
+                "10014": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 10687696.620000001,
+              "physicalAttack": 858868.05,
+              "elementArmor": 139047,
+              "elementAttack": 422565,
+              "elementSpiritPower": 1462500,
+              "element": "fire",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            },
+            "4011": {
+              "id": 4011,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4012": 120
+              },
+              "power": 170296,
+              "skins": {
+                "10006": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 5835277.66,
+              "physicalAttack": 1222027,
+              "elementAttack": 422565,
+              "elementArmor": 89982,
+              "elementSpiritPower": 1462500,
+              "element": "fire",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            },
+            "4012": {
+              "id": 4012,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4014": 120
+              },
+              "power": 170313,
+              "skins": {
+                "10007": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 8762437.24,
+              "physicalAttack": 1002736.79,
+              "elementAttack": 422565,
+              "elementArmor": 89982,
+              "elementSpiritPower": 1462500,
+              "element": "fire",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            },
+            "4013": {
+              "id": 4013,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4016": 120,
+                "4017": 120
+              },
+              "power": 170274,
+              "skins": {
+                "10008": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 6586625.11,
+              "physicalAttack": 1165347.03,
+              "elementAttack": 422565,
+              "elementArmor": 89982,
+              "elementSpiritPower": 1462500,
+              "element": "fire",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            },
+            "4020": {
+              "id": 4020,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4019": 120
+              },
+              "power": 185996,
+              "skins": {
+                "10009": 60,
+                "10015": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 16772882.059999999,
+              "physicalAttack": 402414.82,
+              "elementArmor": 139047,
+              "elementAttack": 422565,
+              "elementSpiritPower": 6750000,
+              "element": "earth",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            },
+            "4021": {
+              "id": 4021,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4021": 120
+              },
+              "power": 170278,
+              "skins": {
+                "10010": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 11444600.73,
+              "physicalAttack": 801066.1799999999,
+              "elementAttack": 422565,
+              "elementArmor": 89982,
+              "elementSpiritPower": 6750000,
+              "element": "earth",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            },
+            "4022": {
+              "id": 4022,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4023": 120
+              },
+              "power": 170313,
+              "skins": {
+                "10011": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 14392848.86,
+              "physicalAttack": 580457.44,
+              "elementAttack": 422565,
+              "elementArmor": 89982,
+              "elementSpiritPower": 6750000,
+              "element": "earth",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            },
+            "4023": {
+              "id": 4023,
+              "xp": 686760,
+              "level": 120,
+              "star": 6,
+              "skills": {
+                "4025": 120,
+                "4026": 120
+              },
+              "power": 170336,
+              "skins": {
+                "10012": 60
+              },
+              "currentSkin": 0,
+              "artifacts": [
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                },
+                {
+                  "level": 120,
+                  "star": 6
+                }
+              ],
+              "scale": 0.8,
+              "type": "titan",
+              "perks": null,
+              "anticrit": 1,
+              "antidodge": 1,
+              "hp": 13620313.35,
+              "physicalAttack": 638741.97,
+              "elementAttack": 422565,
+              "elementArmor": 89982,
+              "elementSpiritPower": 6750000,
+              "element": "earth",
+              "elementSpiritLevel": 120,
+              "elementSpiritStar": 6,
+              "skin": 0
+            }
+          },
+          "pet": {
+            "6000": {
+              "id": 6000,
+              "color": 10,
+              "star": 6,
+              "xp": 450551,
+              "level": 130,
+              "slots": [
+                25,
+                50,
+                50,
+                25,
+                50,
+                50
+              ],
+              "skills": {
+                "6000": 130,
+                "6001": 130
+              },
+              "power": 181943,
+              "type": "pet",
+              "perks": [
+                8
+              ],
+              "name": null,
+              "armorPenetration": 47911,
+              "intelligence": 11064,
+              "strength": 12360
+            },
+            "6001": {
+              "id": 6001,
+              "color": 10,
+              "star": 6,
+              "xp": 450551,
+              "level": 130,
+              "slots": [
+                25,
+                50,
+                50,
+                25,
+                50,
+                50
+              ],
+              "skills": {
+                "6005": 130,
+                "6006": 130
+              },
+              "power": 181943,
+              "type": "pet",
+              "perks": [
+                5,
+                9
+              ],
+              "name": null,
+              "intelligence": 11064,
+              "magicPenetration": 47911,
+              "strength": 12360
+            },
+            "6002": {
+              "id": 6002,
+              "color": 10,
+              "star": 6,
+              "xp": 450551,
+              "level": 130,
+              "slots": [
+                25,
+                50,
+                50,
+                25,
+                50,
+                50
+              ],
+              "skills": {
+                "6010": 130,
+                "6011": 130
+              },
+              "power": 181943,
+              "type": "pet",
+              "perks": [
+                7
+              ],
+              "name": null,
+              "intelligence": 11064,
+              "magicPenetration": 47911,
+              "strength": 12360
+            },
+            "6003": {
+              "id": 6003,
+              "color": 10,
+              "star": 6,
+              "xp": 450551,
+              "level": 130,
+              "slots": [
+                25,
+                50,
+                50,
+                25,
+                50,
+                50
+              ],
+              "skills": {
+                "6015": 130,
+                "6016": 130
+              },
+              "power": 181943,
+              "type": "pet",
+              "perks": [
+                8
+              ],
+              "name": null,
+              "intelligence": 11064,
+              "magicPenetration": 47911,
+              "strength": 12360
+            },
+            "6004": {
+              "id": 6004,
+              "color": 10,
+              "star": 6,
+              "xp": 450551,
+              "level": 130,
+              "slots": [
+                25,
+                50,
+                50,
+                25,
+                50,
+                50
+              ],
+              "skills": {
+                "6020": 130,
+                "6021": 130
+              },
+              "power": 181943,
+              "type": "pet",
+              "perks": [
+                5
+              ],
+              "name": null,
+              "armorPenetration": 47911,
+              "intelligence": 11064,
+              "strength": 12360
+            },
+            "6005": {
+              "id": 6005,
+              "color": 10,
+              "star": 6,
+              "xp": 450551,
+              "level": 130,
+              "slots": [
+                25,
+                50,
+                50,
+                25,
+                50,
+                50
+              ],
+              "skills": {
+                "6025": 130,
+                "6026": 130
+              },
+              "power": 181943,
+              "type": "pet",
+              "perks": [
+                7
+              ],
+              "name": null,
+              "armorPenetration": 47911,
+              "intelligence": 11064,
+              "strength": 12360
+            },
+            "6006": {
+              "id": 6006,
+              "color": 10,
+              "star": 6,
+              "xp": 450551,
+              "level": 130,
+              "slots": [
+                25,
+                50,
+                50,
+                25,
+                50,
+                50
+              ],
+              "skills": {
+                "6030": 130,
+                "6031": 130
+              },
+              "power": 181943,
+              "type": "pet",
+              "perks": [
+                5,
+                9
+              ],
+              "name": null,
+              "intelligence": 11064,
+              "magicPenetration": 47911,
+              "strength": 12360
+            }
+          }
+        }
