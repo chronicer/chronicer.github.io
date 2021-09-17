@@ -729,15 +729,13 @@
         "response": [
           {
             "id": 6002,
-            "color": 7,
-            "star": 2,
-            "xp": 24601,
-            "level": 71,
+            "color": 1,
+            "star": 1,
+            "xp": 0,
+            "level": 1,
             "slots": [],
             "skills": {
-              "6010": 71,
-              "6011": 71,
-              "6012": 71
+              "6010": 1
             },
             "power": 15167,
             "type": "pet",
@@ -750,15 +748,11 @@
             "id": 6005,
             "color": 1,
             "star": 1,
-            "xp": 3216,
-            "level": 54,
-            "slots": [
-              5,
-              5,
-              1
-            ],
+            "xp": 0,
+            "level": 1,
+            "slots": [],
             "skills": {
-              "6025": 54
+              "6025": 1
             },
             "power": 7905,
             "type": "pet",
@@ -771,11 +765,11 @@
             "id": 6001,
             "color": 1,
             "star": 1,
-            "xp": 50,
-            "level": 10,
+            "xp": 0,
+            "level": 1,
             "slots": [],
             "skills": {
-              "6005": 10
+              "6005": 1
             },
             "power": 2635,
             "type": "pet",
@@ -823,11 +817,11 @@
             "id": 6003,
             "color": 1,
             "star": 1,
-            "xp": 365,
-            "level": 27,
+            "xp": 0,
+            "level": 1,
             "slots": [],
             "skills": {
-              "6015": 27
+              "6015": 1
             },
             "power": 4097,
             "type": "pet",
@@ -6210,7 +6204,7 @@
           "targets": 0,
           "arePointsMax": true,
           "nextWarTime": 1600074000,
-          "hasActiveWar": false,
+          "hasActiveWar": true,
           "nearestWarEndTime": 1600113600
         }
       }
